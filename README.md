@@ -10,7 +10,7 @@ To replicate the main analysis, set working directory to the  `codes/` folder an
 source('baseModel.R')
 ```
 
-The working space is saved in the `fitted-model` folder, and a collection of figures in `figures` folder. Some maps are produced with multiple color schemes. Running the whole script takes less than 20 minutes on a 6-core Macbook Pro.
+The workingspace is saved in the `fitted-model` folder, and a collection of figures in `figures` folder. Some maps are produced with multiple color schemes. Running the whole script takes less than 20 minutes on a 6-core Macbook Pro.
 
 ## Details of the R scripts
 
@@ -31,7 +31,7 @@ The working space is saved in the `fitted-model` folder, and a collection of fig
 + ``get_zoning.R``: process zoning data
 + ``getBlockGEO.R``: process block group shapefiles and link to neighborhoods.
 
-### Additional analysis script
+### Additional analysis scripts
 These scripts will take a long time to run since they fit multiple models.
 + ``sensitivity-EMS.R``: sensitivity analysis comparing different EMS call inclusions.
 + ``sensitivity-blockgroup.R``: sensitivity analysis comparing different block group definitions.
