@@ -1,2 +1,4 @@
 figures/*.pdf
-fitted-model/.RData
+fitted-model/*.RData
+Cincinnati_Fire_Incidents__CAD___including_EMS__ALS_BLS.csv
+*.RData
