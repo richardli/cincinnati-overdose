@@ -1,2 +1,2 @@
-figures
-fitted-model
+figures/*.pdf
+fitted-model/.RData
