@@ -1,0 +1,49 @@
+Score,Match_type,address,City,MetroArea,Subregion,long,lat,state,zip
+96.96,A,"725 E Market St, Akron, Ohio, 44305",Akron, ,Summit,-81.49479295,41.07572746,OH,44305
+96.7,A,"200 E State St, Alliance, Ohio, 44601",Alliance, ,Stark,-81.10236689,40.90176361,OH,44601
+96.77,A,"1220 Greenup Ave, Ashland, Kentucky, 41101",Ashland, ,Boyd,-82.64279475,38.48156356,KY,41101
+96.93,A,"3655 Winchester Ave, Ashland, Kentucky, 41101",Ashland, ,Boyd,-82.6157426,38.46304191,KY,41101
+96.8,A,"224 Columbus Rd, Athens, Ohio, 45701",Athens, ,Athens,-82.10341195,39.35694147,OH,45701
+97.02,A,"1088 Wasserman Way, Batavia, Ohio, 45103",Batavia,Cincinnati Metro Area,Clermont,-84.14767467,39.08075108,OH,45103
+96.65,A,"1990 Louisville Rd, #110, Bowling Green, Kentucky, 42101",Bowling Green, ,Warren,-86.41481982,37.00809157,KY,42101
+96.97,A,"1341 Market Ave N, Canton, Ohio, 44714",Canton, ,Stark,-81.37161542,40.81123916,OH,44714
+96.1,A,"3020 Vernon Pl, Cincinnati, Ohio, 45219",Cincinnati,Cincinnati Metro Area,Hamilton,-84.49895581,39.13409922,OH,45219
+95.95,A,"3200 Vine St, Cincinnati, Ohio, 45220",Cincinnati,Cincinnati Metro Area,Hamilton,-84.50936678,39.14010169,OH,45220
+96.72,A,"42 E Crescentville Rd, Cincinnati, Ohio, 45246",Cincinnati,Cincinnati Metro Area,Butler,-84.46438006,39.30341327,OH,45246
+96.36,A,"3131 Harvey Ave, Cincinnati, Ohio, 45229",Cincinnati, ,Hamilton,-84.49878899,39.13627627,OH,45229
+96.36,A,"3009 Burnet Ave, Cincinnati, Ohio, 45219",Cincinnati,Cincinnati Metro Area,Hamilton,-84.50117619,39.1341854,OH,45219
+96.3,A,"6460 Harrison Ave, Cincinnati, Ohio, 45247",Cincinnati,Cincinnati Metro Area,Hamilton,-84.65755006,39.19140532,OH,45247
+96.58,A,"1730 W 25th St, Cleveland, Ohio, 44113",Cleveland, ,Cuyahoga,-81.70593103,41.487239,OH,44113
+96.47,A,"5209 Euclid Ave, Cleveland, Ohio, 44103",Cleveland, ,Cuyahoga,-81.65292579,41.50416242,OH,44103
+74.56,M,"10701 East Blvd, Cleveland, Ohio, 44106",Cleveland, ,Cuyahoga County,-81.69074,41.50473,OH,44016
+96.41,A,"1127 Carnegie Ave, Cleveland, Ohio, 44115",Cleveland, ,Cuyahoga,-81.68139692,41.49642564,OH,44115
+96.32,A,"1380 Dublin Rd, Columbus, Ohio, 43215",Columbus, ,Franklin,-83.06390399,39.98262465,OH,43215
+96.53,A,"1791 Alum Creek Dr, Columbus, Ohio, 43207",Columbus, ,Franklin,-82.94023769,39.93027302,OH,43207
+96.46,A,"547 E 11th Ave, Columbus, Ohio, 43211",Columbus, ,Franklin,-82.99193119,39.99410256,OH,43211
+72.06,M,"967 S US Highway 25, Corbin, Kentucky, 40701",Corbin, ,Laurel County,-84.09555,36.9441,KY,40702
+96.53,A,"1717 Madison Ave, Covington, Kentucky, 41011",Covington,Cincinnati Metro Area,Kenton,-84.5066481,39.0699185,KY,41011
+96.53,A,"1450 Madison Ave, Covington, Kentucky, 41011",Covington,Cincinnati Metro Area,Kenton,-84.5075664,39.07379159,KY,41011
+72.7,M,"4100 W 3rd St, Dayton, Ohio, 45417",Dayton, ,Montgomery County,-84.26145126,39.74465898,OH,45428
+96.6,A,"2645 Leitchfield Rd, Elizabethtown, Kentucky, 42701",Elizabethtown, ,Hardin,-85.89999878,37.67636937,KY,42701
+96.36,A,"680 Northland Blvd, Cincinnati, Ohio, 45240",Cincinnati,Cincinnati Metro Area,Hamilton,-84.50027153,39.28085188,OH,45240
+97.06,A,"2225 Lawrenceburg Rd, Frankfort, Kentucky, 40601",Frankfort, ,Franklin,-84.89477574,38.15000118,KY,40601
+97.02,A,"48 Independence Dr, Hazard, Kentucky, 41701",Hazard, ,Perry,-83.22752221,37.28351743,KY,41701
+96.11,A,"609 Hammond Plz, Hopkinsville, Kentucky, 42240",Hopkinsville, ,Christian,-87.47617148,36.83304575,KY,42240
+96.53,A,"1974 Walton Nicholson Pike, Independence, Kentucky, 41051",Independence,Cincinnati Metro Area,Kenton,-84.54947699,38.90577327,KY,41051
+96.53,A,"120 Twin Oaks Dr, Jackson, Ohio, 45640",Jackson, ,Jackson,-82.63611081,39.03274517,OH,45640
+95.97,A,"1700 Cargo Ct, Louisville, Kentucky, 40299",Louisville, ,Jefferson,-85.57187628,38.2199332,KY,40299
+96.78,A,"340 Legion Dr, Lexington, Kentucky, 40504",Lexington, ,Fayette,-84.52029453,38.03450782,KY,40504
+96.53,A,"201 Mechanic St, Lexington, Kentucky, 40507",Lexington, ,Fayette,-84.49446189,38.04973952,KY,40507
+97.02,A,"2727 St Johns Rd, Lima, Ohio, 45804",Lima, ,Allen,-84.08984375,40.701717,OH,45804
+96,A,"1402 Browns Ln, Louisville, Kentucky, 40207",Louisville, ,Jefferson,-85.6297601,38.23594873,KY,40207
+96.3,M,"1448 S 15th St, Louisville, Kentucky, 40210",Louisville, ,Jefferson County,-85.7802888,38.2281023,KY,40210
+88.73,A,"4483 US-42, Mason, Ohio, 45040",Mason,Cincinnati Metro Area,Warren,-84.29533712,39.36839029,OH,45040
+85,A,"45417, Moraine, Ohio",Dayton, ,Montgomery,-84.21597,39.732495,OH,45417
+87.23,A,"3032 KY-144, Owensboro, Kentucky, 42303",Owensboro, ,Daviess,-87.07535368,37.78350099,KY,42303
+96.93,A,"2705 Olivet Church Rd, Paducah, Kentucky, 42001",Paducah, ,McCracken,-88.70093278,37.07008785,KY,42001
+96.2,A,"628 Jefferson Ave, Paintsville, Kentucky, 41240",Paintsville, ,Johnson,-82.79986546,37.80994465,KY,41240
+96.53,A,"368 S Mayo Trl, Pikeville, Kentucky, 41501",Pikeville, ,Pike,-82.53241407,37.46718347,KY,41501
+96.53,A,"607 Clifty St, Somerset, Kentucky, 42503",Somerset, ,Pulaski,-84.61760826,37.09795713,KY,42503
+96.74,A,"2005 Ashland Ave, Toledo, Ohio, 43620",Toledo, ,Lucas,-83.54966858,41.66107763,OH,43620
+96.8,A,"320 High St NE, Warren, Ohio, 44481",Warren, ,Trumbull,-80.8146093,41.23755154,OH,44481
+96.47,A,"527 N Meridian Rd, Youngstown, Ohio, 44509",Youngstown, ,Mahoning,-80.71108756,41.11216208,OH,44509

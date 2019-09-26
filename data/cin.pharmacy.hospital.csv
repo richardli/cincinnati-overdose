@@ -1,0 +1,133 @@
+Status,Score,Match_type,X,Y,Name,Address,City,State,Zip,Type,24hours
+M,100,A,-84.88126,39.110504,Community Mental Health Center,285 Bielby Rd,Lawrenceburg,IN,47025,Hospital,0
+M,100,A,-84.530653,39.04953,Northkey Community Care,502 Farrell Dr,Covington,KY,41011,Hospital,0
+M,100,A,-84.885158,39.110702,Dearborn County Hospital,600 Wilson Creek Rd,Lawrenceburg,IN,47025,Hospital,0
+M,100,A,-84.559914,39.015021,St Elizabeth Healthcare Edgewood Inpatient Pharmacy,1 Medical Village Dr,Edgewood,KY,41017,Pharmacy,1
+M,100,A,-84.559914,39.015021,St Elizabeth Hlthcare Edgewood,1 Medical Village Dr,Edgewood,KY,41017,Hospital,0
+M,100,A,-84.565458,39.012623,Healthsouth Rehab Hospital,201 Medical Village Dr,Edgewood,KY,41017,Hospital,0
+M,100,A,-84.33397,38.674633,St. Elizabeth Healthcare Falmouth,512 Maple Ave,Falmouth,KY,41040,Hospital,0
+M,87.22,A,-84.654604,39.00878,Gateway Rehabilitation Hospital,5940 Merchants St,Florence,KY,41042,Hospital,0
+M,100,A,-84.65008,38.982017,Walgreens Pharmacy,8193 Mall Rd,Florence,KY,41042,Pharmacy,1
+M,100,A,-84.633235,39.017229,Saint Elizabeth Florence Hospital Pharmacy Inpatient,4900 Houston Rd,Florence,KY,41042,Pharmacy,1
+M,100,A,-84.483796,39.083912,Walgreens Pharmacy,1601 Monmouth St,Newport,KY,41071,Pharmacy,1
+M,100,A,-84.633235,39.017229,St Elizabeth Healthcare Florence,4900 Houston Rd,Florence,KY,41042,Hospital,0
+U,0,M,-84.478097,39.088368,CVS Pharmacy,160 Pavilion Pkwy,Newport,KY,41071,Pharmacy,0
+U,0,M,-84.478478,39.090555,Kroger Pharmacy,130 Pavilion Pkwy,Newport,KY,41071,Pharmacy,0
+M,100,A,-84.480784,39.098707,Kroger Pharmacy,53 Donnermeyer Dr,Bellevue,KY,41073,Pharmacy,0
+M,100,A,-84.479619,39.109178,Avenue Pharmacy,118 6th Ave Ste 3,Dayton,KY,41074,Pharmacy,0
+U,0,M,-84.314396,39.498742,Atrium Medical Center,1 Medical Center Dr,Middletown,OH,45005,Hospital,0
+M,100,A,-84.574288,38.650429,St Elizabeth Healthcare,238 Barnes Rd,Williamstown,KY,41097,Hospital,0
+M,100,A,-84.464151,39.077641,St Elizabeth Healthcare Inpatient Pharmacy,85 N Grand Ave,Fort Thomas,KY,41075,Pharmacy,1
+M,100,A,-84.464151,39.077641,St Elizabeth Hlthcare Ft Thomas,85 N Grand Ave,Fort Thomas,KY,41075,Hospital,0
+M,100,A,-84.573707,39.415037,Fort Hamilton Hospital,630 Eaton Ave,Hamilton,OH,45013,Hospital,0
+M,100,A,-84.588836,39.420758,CVS Pharmacy,28 N Brookwood Ave,Hamilton,OH,45013,Pharmacy,1
+M,100,A,-84.549159,39.396034,Walgreens Pharmacy,1090 High St,Hamilton,OH,45011,Pharmacy,1
+M,100,A,-84.573707,39.415037,Fort Hamilton Hospital Inpatient Pharmacy,630 Eaton Ave,Hamilton,OH,45013,Pharmacy,1
+M,100,A,-84.520198,39.310816,Mercy Health Fairfield Hospital Inpatient Pharmacy,3000 Mack Rd,Fairfield,OH,45014,Pharmacy,1
+M,100,A,-84.520198,39.310816,Mercy Hospital Fairfield,3000 Mack Rd,Fairfield,OH,45014,Hospital,0
+M,100,A,-84.804618,39.258694,Walgreens Pharmacy,1032 Harrison Ave,Harrison,OH,45030,Pharmacy,1
+U,0,M,-84.307848,39.434528,Warren Correctional Institution,5787 State Rd 63,Lebanon,OH,45036,Hospital,0
+M,100,A,-84.355515,39.502378,CVS Pharmacy,820 S Breiel Blvd,Middletown,OH,45044,Pharmacy,1
+M,89.04,A,-84.205127,39.477583,Lebanon Correctional Institute,3791 W State Route 63,Lebanon,OH,45036,Hospital,0
+M,100,A,-84.355437,39.503293,Walgreens Pharmacy,700 S Breiel Blvd,Middletown,OH,45044,Pharmacy,1
+U,0,M,-84.368968,39.380685,Cincinnati Childrens Hospital Inpatient Pharmacy,7777 Yankee Rd,Liberty Township,OH,45044,Pharmacy,1
+U,0,M,-84.365698,39.361591,UC Health Surgical Hospital,7750 Discovery Dr,West Chester,OH,45069,Hospital,0
+M,100,A,-84.386704,39.368355,CVS Pharmacy,7217 Cincinnati Dayton Rd,West Chester,OH,45069,Pharmacy,1
+M,100,A,-84.366546,39.35889,West Chester Hospital,7700 University Dr,West Chester,OH,45069,Hospital,0
+M,100,A,-84.366546,39.35889,West Chester Medical Center Inpatient Pharmacy,7700 University Dr,West Chester,OH,45069,Pharmacy,1
+M,100,A,-84.740917,39.511676,Mccullough-Hyde Memorial Hosp,110 N Poplar St,Oxford,OH,45056,Hospital,0
+M,100,A,-84.146514,39.080156,Mercy Health Clermont Hospital,3000 Hospital Dr,Batavia,OH,45103,Hospital,0
+M,100,A,-84.146514,39.080156,Mercy Health Clermont Hospital Inpatient Pharmacy,3000 Hospital Dr,Batavia,OH,45103,Pharmacy,1
+M,100,A,-84.519212,39.112337,Elm Street Health Center Pharmacy,1525 Elm St,Cincinnati,OH,45202,Pharmacy,0
+M,100,A,-84.509422,39.100517,Walgreens Pharmacy,406 Main St,Cincinnati,OH,45202,Pharmacy,0
+M,100,A,-84.515007,39.10222,Walgreens Pharmacy,601 Race St,Cincinnati,OH,45202,Pharmacy,0
+M,100,A,-84.514895,39.102345,CVS Pharmacy,604 Race St,Cincinnati,OH,45202,Pharmacy,0
+M,100,A,-84.512662,39.103904,CVS Pharmacy,36 E 7th St,Cincinnati,OH,45202,Pharmacy,0
+M,100,A,-84.489481,39.125962,CVS Pharmacy,934 E McMillan St,Cincinnati,OH,45206,Pharmacy,0
+M,100,A,-84.496201,39.129631,Oak Apothecary,629 Oak St,Cincinnati,OH,45206,Pharmacy,0
+M,100,A,-84.430512,39.128906,CVS Pharmacy,3195 Linwood Ave,Cincinnati,OH,45208,Pharmacy,0
+M,100,A,-84.460283,39.132778,Pack Pharmacy,2114 Madison Rd,Cincinnati,OH,45208,Pharmacy,0
+M,100,A,-84.428786,39.147113,Walgreens Pharmacy,3822 Paxton Ave,Cincinnati,OH,45209,Pharmacy,0
+M,100,A,-84.419229,39.141163,Tischbein Pharmacy,3500 Erie Ave,Cincinnati,OH,45208,Pharmacy,0
+U,0,M,-84.264531,39.74228,VA Medical Center Inpatient Pharmacy,4100 W 3rd St,Dayton,OH,45202,Pharmacy,1
+M,100,A,-84.424755,39.162126,Sams Club Pharmacy,4825 Marburg Ave,Cincinnati,OH,45209,Pharmacy,0
+M,100,A,-84.424755,39.162126,CVS Pharmacy,4825 Marburg Ave,Cincinnati,OH,45209,Pharmacy,0
+M,100,A,-84.429897,39.146051,Kroger Pharmacy,3760 Paxton Ave,Cincinnati,OH,45209,Pharmacy,0
+M,100,A,-84.430715,39.152828,CVS Pharmacy,3086 Madison Rd,Cincinnati,OH,45209,Pharmacy,0
+M,92.5,A,-84.424755,39.162126,Meijer Pharmacy,4825 Marburg Ave,Cincinnati,OH,45210,Pharmacy,0
+U,0,M,-84.596847,39.180476,Mercy West Hospital Outpatient Pharmacy,3300 Mercy Health Blvd,Cincinnati,OH,45211,Pharmacy,1
+M,100,A,-84.450729,39.161307,Infusion Partners,4623 Wesley Ave Ste H,Cincinnati,OH,45212,Pharmacy,0
+M,100,A,-84.456759,39.159522,Kroger Pharmacy,4500 Montgomery Rd,Cincinnati,OH,45212,Pharmacy,0
+M,100,A,-84.450383,39.169668,CVS Pharmacy,5229 Montgomery Rd,Cincinnati,OH,45212,Pharmacy,0
+M,100,A,-84.456299,39.160545,Walgreens Pharmacy,4605 Montgomery Rd,Cincinnati,OH,45212,Pharmacy,1
+M,100,A,-84.425258,39.183142,Walgreens Pharmacy,6204 Montgomery Rd,Cincinnati,OH,45213,Pharmacy,0
+M,100,A,-84.427333,39.18209,Mullaneys Pharmacy & Home Health Care,6096 Montgomery Rd,Cincinnati,OH,45213,Pharmacy,0
+M,100,A,-84.43838,39.22728,CVS Pharmacy,9197 Reading Rd,Cincinnati,OH,45215,Pharmacy,0
+M,100,A,-84.533573,39.11963,St Vincent De Paul Charitable Pharmacy,1125 Bank St,Cincinnati,OH,45214,Pharmacy,0
+M,100,A,-84.478778,39.213387,Daniel Drake Center Inpatient Pharmacy,151 W Galbraith Rd,Cincinnati,OH,45216,Pharmacy,0
+M,100,A,-84.478778,39.213387,Drake Center,151 W Galbraith Rd,Cincinnati,OH,45216,Hospital,0
+M,100,A,-84.474397,39.210451,Kroger Pharmacy,8241 Vine St,Cincinnati,OH,45216,Pharmacy,0
+M,100,A,-84.473841,39.214946,CVS Pharmacy,8372 Vine St,Cincinnati,OH,45216,Pharmacy,0
+M,100,A,-84.510701,39.127861,CVS Pharmacy,17 William Howard Taft Rd,Cincinnati,OH,45219,Pharmacy,1
+M,100,A,-84.502359,39.135852,The University Hospital Hoxworth Pharmacy,3130 Highland Ave,Cincinnati,OH,45219,Pharmacy,0
+U,0,M,0,0,Walgreens Pharmacy,56329 W Mitchell Ave,Cincinnati,OH,45217,Pharmacy,0
+U,0,M,-84.504809,39.140511,UC Health Holmes Division Outpatient Pharmacy,Eden & Albert Sabin Way Ml-443,Cincinnati,OH,45219,Pharmacy,0
+M,100,A,-84.50976,39.12906,Walgreens Pharmacy,3 W Corry St,Cincinnati,OH,45219,Pharmacy,1
+M,100,A,-84.502677,39.136794,University Hospital Inpatient Pharmacy,234 Goodman St,Cincinnati,OH,45219,Pharmacy,1
+M,100,A,-84.502677,39.136794,UC Health University Hospital,234 Goodman St,Cincinnati,OH,45219,Hospital,0
+M,100,A,-84.508596,39.120943,Christ Hospital,2139 Auburn Ave,Cincinnati,OH,45219,Hospital,0
+M,100,A,-84.508648,39.120251,Christ Hospital Apothecary,2123 Auburn Ave,Cincinnati,OH,45219,Pharmacy,0
+M,100,A,-84.508596,39.120943,Christ Hospital Pharmacy,2139 Auburn Ave,Cincinnati,OH,45219,Pharmacy,1
+M,100,A,-84.523543,39.140077,Group Health Pharmacy,379 Dixmyth Ave,Cincinnati,OH,45220,Pharmacy,0
+M,100,A,-84.523662,39.140015,Good Samaritan Hospital,375 Dixmyth Ave,Cincinnati,OH,45220,Hospital,0
+M,100,A,-84.52177,39.143793,CVS Pharmacy,371 Ludlow Ave,Cincinnati,OH,45220,Pharmacy,0
+M,100,A,-84.523662,39.140015,Select Specialty Hospital,375 Dixmyth Ave,Cincinnati,OH,45220,Hospital,0
+M,100,A,-84.523662,39.140015,Good Samaritan Hospital Inpatient Pharmacy,375 Dixmyth Ave,Cincinnati,OH,45220,Pharmacy,1
+M,100,A,-84.509449,39.137866,Cincinnati VA Medical Center Pharmacy,3200 Vine St,Cincinnati,OH,45220,Pharmacy,1
+M,100,A,-84.509449,39.137866,VA Medical Center,3200 Vine St,Cincinnati,OH,45220,Hospital,0
+M,100,A,-84.394056,39.160728,Braxton Cann Medical Center Pharmacy,5818 Madison Rd,Cincinnati,OH,45227,Pharmacy,0
+U,0,M,-84.514966,39.131379,University Health Services Pharmacy,2751 O Varsity Way,Cincinnati,OH,45221,Pharmacy,0
+M,100,A,-84.540357,39.157408,Northside Health Center Pharmacy,3917 Spring Grove Ave,Cincinnati,OH,45223,Pharmacy,0
+M,100,A,-84.539969,39.163035,Schaepers Pharmacy,4187 Hamilton Ave,Cincinnati,OH,45223,Pharmacy,0
+M,100,A,-84.500776,39.138163,Shriners Burn Institute Inpatient Pharmacy,3229 Burnet Ave,Cincinnati,OH,45229,Pharmacy,1
+M,100,A,-84.500487,39.140763,Cincinnati Childrens Hospital Medical Center Pharmacy,3333 Burnet Ave,Cincinnati,OH,45229,Pharmacy,1
+M,100,A,-84.500776,39.138163,Shriners Hospital For Children,3229 Burnet Ave,Cincinnati,OH,45229,Hospital,0
+M,100,A,-84.404553,39.148489,Walmart Pharmacy,4000 Red Bank Rd,Cincinnati,OH,45227,Pharmacy,0
+M,100,A,-84.500487,39.140763,Children's Hospital Medical Ctr,3333 Burnet Ave,Cincinnati,OH,45229,Hospital,0
+M,100,A,-84.362278,39.073719,Walgreens Pharmacy,7135 Beechmont Ave,Cincinnati,OH,45230,Pharmacy,1
+M,100,A,-84.518178,39.216165,Walgreens Pharmacy,8210 Winton Rd,Cincinnati,OH,45231,Pharmacy,0
+M,100,A,-84.361337,39.142336,Kroger Pharmacy,7385 Wooster Pike,Cincinnati,OH,45227,Pharmacy,0
+M,100,A,-84.549356,39.218303,Walgreens Pharmacy,6918 Hamilton Ave,Cincinnati,OH,45231,Pharmacy,1
+M,100,A,-84.513009,39.164297,Kroger Pharmacy,4777 Kenard Ave,Cincinnati,OH,45232,Pharmacy,0
+M,100,A,-84.514772,39.186054,Sharonville Pharmacy,5275 Winneste Ave,Cincinnati,OH,45232,Pharmacy,0
+M,100,A,-84.371344,39.206113,Group Health Kenwood Associates Pharmacy,8245 Northcreek Dr,Cincinnati,OH,45236,Pharmacy,0
+M,100,A,-84.380361,39.206746,Jewish Hospital Kenwood,4777 E Galbraith Rd,Cincinnati,OH,45236,Hospital,0
+M,100,A,-84.380361,39.206746,The Jewish Hospital Inpatient Pharmacy,4777 E Galbraith Rd,Cincinnati,OH,45236,Pharmacy,1
+M,100,A,-84.399774,39.193415,CVS Pharmacy,7314 Montgomery Rd,Silverton,OH,45236,Pharmacy,0
+M,100,A,-84.399358,39.208532,Walgreens Pharmacy,4090 E Galbraith Rd,Cincinnati,OH,45236,Pharmacy,1
+M,100,A,-84.464454,39.19013,Walgreens Pharmacy,1776 Seymour Ave,Cincinnati,OH,45237,Pharmacy,0
+M,100,A,-84.45785,39.198806,Roselawn Pharmacy,7601 Reading Rd,Cincinnati,OH,45237,Pharmacy,0
+M,100,A,-84.474318,39.193636,Summit Behavioral Health Care Pharmacy,1101 Summit Rd,Cincinnati,OH,45237,Pharmacy,0
+M,100,A,-84.474318,39.193636,Summit Behavioral Health Care,1101 Summit Rd,Cincinnati,OH,45237,Hospital,0
+M,100,A,-84.605318,39.12865,Walgreens Pharmacy,2320 Boudinot Ave,Cincinnati,OH,45238,Pharmacy,1
+M,100,A,-84.605493,39.136324,Mercy Health Western Hospital,3131 Queen City Ave,Cincinnati,OH,45238,Hospital,0
+M,100,A,-84.571883,39.201777,Mercy Hospital Mount Airy,2446 Kipling Ave,Cincinnati,OH,45239,Hospital,0
+M,100,A,-84.485411,39.28219,Walgreens Pharmacy,385 Northland Blvd,Cincinnati,OH,45240,Pharmacy,1
+M,100,A,-84.443472,39.302205,Omnicare Cincinnati,5549 Spellmire Dr,Cincinnati,OH,45246,Pharmacy,1
+M,100,A,-84.343934,39.251871,Bethesda North Hospital,10500 Montgomery Rd,Cincinnati,OH,45242,Hospital,0
+M,100,A,-84.343934,39.251871,Bethesda Hospital Inpatient Pharmacy,10500 Montgomery Rd,Cincinnati,OH,45242,Pharmacy,1
+M,100,A,-84.601857,39.188257,Walgreens Pharmacy,5403 N Bend Rd,Cincinnati,OH,45247,Pharmacy,1
+M,100,A,-84.34966,39.084472,Mercy Hospital Anderson,7500 State Rd,Cincinnati,OH,45255,Hospital,0
+M,100,A,-84.347641,39.072839,Kroger Pharmacy,7580 Beechmont Ave,Cincinnati,OH,45255,Pharmacy,1
+M,100,A,-84.597154,39.249221,Walgreens Pharmacy,9775 Colerain Ave,Cincinnati,OH,45251,Pharmacy,1
+M,100,A,-84.34955,39.072866,CVS Pharmacy,7500 Beechmont Ave,Cincinnati,OH,45255,Pharmacy,1
+M,100,A,-84.168974,39.773557,Childrens Medical Center Inpatient Pharmacy,1 Childrens Plz,Dayton,OH,45404,Pharmacy,1
+M,100,A,-84.34966,39.084472,Mercy Hospital Anderson Inpatient Pharmacy,7500 State Rd,Cincinnati,OH,45255,Pharmacy,1
+M,100,A,-84.26702,39.640598,Walgreens Pharmacy,1260 E Central Ave,Miamisburg,OH,45342,Pharmacy,1
+U,0,M,-84.248746,39.638485,Sycamore Hospital Inpatient Pharmacy,4000 Miamisburg Centerville Rd,Miamisburg,OH,45343,Pharmacy,1
+M,100,A,-84.202945,39.769039,Grandview Hospital Inpatient Pharmacy,405 W Grand Ave,Dayton,OH,45405,Pharmacy,1
+M,100,A,-84.186214,39.744917,Miami Valley Hospital Inpatient Pharmacy,1 Wyoming St,Dayton,OH,45409,Pharmacy,1
+M,100,A,-84.234884,39.78796,Good Samaritan Hospital Inpatient Pharmacy,2222 Philadelphia Dr,Dayton,OH,45406,Pharmacy,1
+M,100,A,-84.057539,39.729799,CVS Pharmacy,1331 N Fairfield Rd,Beavercreek,OH,45432,Pharmacy,1
+M,100,A,-84.235126,39.787402,Walgreens Pharmacy,2710 Salem Ave,Dayton,OH,45406,Pharmacy,1
+M,100,A,-84.158363,39.660468,CVS Pharmacy,5981 Far Hills Ave,Dayton,OH,45429,Pharmacy,1

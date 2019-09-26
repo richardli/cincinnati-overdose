@@ -1,0 +1,432 @@
+Score,Match_type,Match_addr,neighborhood,MetroArea,long,lat,county,state,id,facilityname,city,zip,fedfunded,rhc,rural
+97.59,A,"1 Mustang Trl, Lawrenceburg, Kentucky, 40342", , ,-84.90080536,38.03946631,Anderson County,KY,181004,ANDERSON COUNTY MIDDLE HEALTHY KIDS CLINIC,Lawrenceburg,40342,Yes,No,Yes
+97.89,A,"278 Kenny Davis Blvd, Monticello, Kentucky, 42633", , ,-84.86227555,36.83092649,Wayne County,KY,181942,BELL ELEMENTARY HEALTHY KIDS CLINIC,Monticello,42633,Yes,No,Yes
+98.04,A,"5310 Carnegie Ave, Cleveland, Ohio, 44103",Central, ,-81.65218097,41.50154162,Cuyahoga County,OH,361896,CARE ALLIANCE,Cleveland,44103,Yes,No,No
+98,A,"2916 Central Ave, Cleveland, Ohio, 44115",Campus District, ,-81.66698749,41.49684146,Cuyahoga County,OH,361071,CARE ALLIANCE HEALTH CENTER,Cleveland,44115,Yes,No,No
+98.11,A,"333 Conover Dr, Franklin, Ohio, 45005", , ,-84.27565796,39.55930116,Warren County,OH,361040,CENTERPOINT HEALTH,Franklin,45005,Yes,No,No
+98,A,"1740 Langdon Farm Rd, Cincinnati, Ohio, 45237",Bond Hill,Cincinnati Metro Area,-84.46382693,39.1841441,Hamilton County,OH,361948,CINCINNATI HAMILTON COUNTY COMMUNITY ACTION AGENCY,Cincinnati,45237,Yes,No,No
+97.91,A,"3909 Kok Rd, Willard, Ohio, 44890", , ,-82.7255115,41.01266548,Huron County,OH,361973,COMMUNITY HEALTH SERVICES - WILLARD,Willard,44890,Yes,No,Yes
+80.17,A,"1009 N Main St, Hazard, Kentucky, 41701", , ,-83.19465507,37.25406618,Perry County,KY,181842,CORNER HAVEN CRISIS CENTER,Hazard,41702,Yes,No,Yes
+97.68,A,"360 Keen St, Burkesville, Kentucky, 42717", , ,-85.3695105,36.78411069,Cumberland County,KY,181860,CUMBERLAND FAMILY MEDICAL CENTER INC,Burkesville,42717,Yes,No,Yes
+98.39,A,"301 Professional Park Dr, Glasgow, Kentucky, 42141", , ,-85.89860871,37.00995667,Barren County,KY,181911,"CUMBERLAND FAMILY MEDICAL CENTER, INC",Glasgow,42141,Yes,No,Yes
+97.69,A,"1620 E Main St, Cumberland, Kentucky, 40823", , ,-82.98004593,36.97478082,Harlan County,KY,181985,CUMBERLAND MEDICAL/DENTAL CLINIC,Cumberland,40823,Yes,No,Yes
+98.33,A,"1032 E Market St, Warren, Ohio, 44483", , ,-80.80474997,41.23630751,Trumbull County,OH,361989,EAST MARKET STREET WARREN,Warren,44483,No,No,No
+92.95,A,Elmwood Place Elementary School, ,Cincinnati Metro Area,-84.48801993,39.18750001,Hamilton County,OH,361933,ELMWOOD PLACE ELEMENTARY,Elmwood Place,45216,Yes,No,No
+97.59,A,"1150 Bypass N, Lawrenceburg, Kentucky, 40342", , ,-84.91417088,38.0457322,Anderson County,KY,181001,EMMA B WARD ELEMENTARY HEALTHY KID CLINIC,Lawrenceburg,40342,Yes,No,Yes
+97.89,A,"1436 S Shelby St, Louisville, Kentucky, 40217",Merriwether, ,-85.7417299,38.2268936,Jefferson County,KY,181817,FAMILY HEALTH CENTER SHELBY,Louisville,40217,Yes,No,No
+93.21,A,"14590 State Route 93, Jackson, Ohio, 45640", , ,-82.62116734,39.02659604,Jackson County,OH,361882,FAMILY HEALTH CENTER-JACKSON,Jackson,45640,No,No,Yes
+97.95,A,"702 N Main St, Arcanum, Ohio, 45304", , ,-84.55359527,39.99963527,Darke County,OH,361903,FAMILY HEALTH SERVICES OF DARKE COUNTY,Arcanum,45304,Yes,No,Yes
+97.65,A,"10484 Kley Rd, Versailles, Ohio, 45380", , ,-84.46502901,40.22311517,Darke County,OH,361959,"FAMILY HEALTH SERVICES OF DARKE COUNTY, INC",Versailles,45380,Yes,No,Yes
+0,M, , , ,-85.3071308,37.0980594,Adair County,KY,181940,ADAIR COUNTY PRIMARY HEALTHYKIDS CLINIC,Columbia,42728,Yes,No,Yes
+98.51,A,"1400 S Arlington St, Akron, Ohio, 44306",Firestone Park, ,-81.49142886,41.03371807,Summit County,OH,361860,"AKRON COMMUNITY HEALTH RESOURCES, INC",Akron,44306,Yes,No,No
+98.33,A,"360 Wilson Dr, Xenia, Ohio, 45385", , ,-83.92702536,39.69931786,Greene County,OH,361134,FIVE RIVERS HEALTH CENTERS,Xenia,45385,Yes,No,No
+98.22,A,"121 Bishop St, Corbin, Kentucky, 40701", , ,-84.10291648,36.94427148,Whitley County,KY,181970,GRACE COMMUNITY HEALTH CENTER INC,Corbin,40701,Yes,No,Yes
+98,A,"1075 N Washington St, Greenfield, Ohio, 45123", , ,-83.38677142,39.36178735,Highland County,OH,361808,GREENFIELD FAMILY HEALTH  CENTER,Greenfield,45123,Yes,No,Yes
+97.97,A,"2020 Beechmont Ave, Cincinnati, Ohio, 45230",Mount Washington,Cincinnati Metro Area,-84.3863679,39.09062297,Hamilton County,OH,361024,HEALTH SOURCE/ MT WASHINGTON,Cincinnati,45230,Yes,No,No
+97.88,A,"1487 N High St, Hillsboro, Ohio, 45133", , ,-83.61047763,39.23192375,Highland County,OH,361115,HIGHLAND HEALTH PROVIDERS CORP,Hillsboro,45133,Yes,No,Yes
+98.37,A,"985 Gorge Blvd, Akron, Ohio, 44310",Chapel Hill, ,-81.499314,41.10393475,Summit County,OH,361127,INTERNATIONAL COMMUNITY,Akron,44310,Yes,No,No
+98.11,A,"1833 Parsons Ave, Columbus, Ohio, 43207",Reeb-Hosack, ,-82.98439973,39.92562112,Franklin County,OH,361869,JOHN MALONEY SOUTHSIDE FAMILY CENTER,Columbus,43207,No,No,No
+98.3,A,"3240 Irvin Cobb Dr, Paducah, Kentucky, 42003", , ,-88.56869948,37.05256771,McCracken County,KY,181913,KENTUCKYCARE 44,Paducah,42003,Yes,No,Yes
+85.62,A,"10W Vanceburg Boat Ramp, Vanceburg, Kentucky, 41179", , ,-83.32322916,38.60393847,Lewis County,KY,181818,LEWIS  COUNTY PRIMARY CARE CENTER INC,Vanceburg,41179,No,No,Yes
+97.74,A,"520 Elizaville Ave, Flemingsburg, Kentucky, 41041", , ,-83.74388025,38.42004911,Fleming County,KY,181844,LEWIS COUNTY PRIMARY CARE CENTER INC,Flemingsburg,41041,Yes,No,Yes
+97.96,A,"650 Newtown Pike, Lexington, Kentucky, 40508",Georgetown, ,-84.49920082,38.06466457,Fayette County,KY,181812,LEXINGTON FAYETTE CO HEALTH DEPT,Lexington,40508,Yes,No,No
+98.22,A,"3745 Grove Ave, Lorain, Ohio, 44055", , ,-82.11955625,41.43609701,Lorain County,OH,361885,LORAINE COUNTY HEALTH & DENTISTRY,Lorain,44055,No,No,No
+98.04,A,"1251 W Broad St, Columbus, Ohio, 43222",Franklinton, ,-83.03395915,39.9581706,Franklin County,OH,361904,"LOWER LIGHTS CHRISTIAN HEALTH CENTER, INC",Columbus,43222,Yes,No,No
+97.78,A,"130 Wayne Frye Dr, Manchester, Ohio, 45144", , ,-83.58852341,38.69388882,Adams County,OH,361050,MANCHESTER FAMILY HEALTH CENTER,Manchester,45144,Yes,No,Yes
+97.86,A,"2750 Beekman St, Cincinnati, Ohio, 45225",English Woods,Cincinnati Metro Area,-84.54776042,39.13577273,Hamilton County,OH,361955,MILLVILLE AT HOPPLE HEALTH CENTER,Cincinnati,45225,Yes,No,No
+97.93,A,"8146 Hamilton Ave, Cincinnati, Ohio, 45231", ,Cincinnati Metro Area,-84.54730811,39.242041,Hamilton County,OH,361932,MOUNT HEALTHY FAMILY PRACTICE,Cincinnati,45231,Yes,No,No
+97.88,A,"1330 Clark St, Cambridge, Ohio, 43725", , ,-81.57690455,40.03938297,Guernsey County,OH,361084,MUSKINGUM VALLEY HEALTH CENTER,Cambridge,43725,Yes,No,Yes
+98,A,"11709 Lorain Ave, Cleveland, Ohio, 44111",Jefferson, ,-81.76914146,41.46175733,Cuyahoga County,OH,361091,NEIGHBORHOOD FAMILY PRACTICE,Cleveland,44111,Yes,No,No
+98.07,A,"3929 Rocky River Dr, Cleveland, Ohio, 44111",Kamm's Corners, ,-81.81733865,41.4481274,Cuyahoga County,OH,361048,NEIGHBORHOOD FAMILY PRACTICE,Cleveland,44111,Yes,No,No
+97.92,A,"4800 Payne Ave, Cleveland, Ohio, 44103",Goodrich-Kirtland Park, ,-81.65337435,41.51216618,Cuyahoga County,OH,361028,NORTHEAST OHIO NEIGHBORHOOD HEALTH SERVICES INC,Cleveland,44103,Yes,No,No
+98,A,"310 Hawthorne St, Princeton, Kentucky, 42445", , ,-87.87871447,37.10994587,Caldwell County,KY,181912,"PENNYROYAL HEALTHCARE SERVICES, INC",Princeton,42445,Yes,No,Yes
+98.75,M,"9086 State Route 132 W, Clay, Kentucky, 42404", , ,-87.82025543,37.47655943,WEBSTER COUNTY,KY,181883,REGIONAL HEALTH CARE AFFILIATES INC,Clay,42404,Yes,No,Yes
+97.69,A,"215 E Main St, Providence, Kentucky, 42450", , ,-87.75993234,37.39840998,Webster County,KY,181876,"REGIONAL HEALTH CARE AFFILIATES, INC",Providence,42450,Yes,No,Yes
+97.89,A,"241 E Clifton Ave, Cincinnati, Ohio, 45202",Over-the-Rhine,Cincinnati Metro Area,-84.51238925,39.1141364,Hamilton County,OH,361089,ROTHENBERG PREPARATORY ACADEMY SBHC,Cincinnati,45202,Yes,No,No
+97.69,A,"411 Gest St, Cincinnati, Ohio, 45203",West End,Cincinnati Metro Area,-84.5261749,39.09869346,Hamilton County,OH,361109,SHELTERHOUSE,Cincinnati,45203,Yes,No,No
+97.85,A,"5410 Transportation Blvd, Cleveland, Ohio, 44125", , ,-81.61603903,41.41498744,Cuyahoga County,OH,361132,SIGNATURE HEALTH INC,Garfield Heights,44125,Yes,No,No
+98.03,A,"55 Township Road 508 E, South Point, Ohio, 45680", , ,-82.5874885,38.44645649,Lawrence County,OH,361850,SOUTH POINT FAMILY MEDICAL CENTER,South Point,45680,No,Yes,No
+94.38,A,St Bernard Elementary School, ,Cincinnati Metro Area,-84.49652007,39.16565004,Hamilton County,OH,361935,ST BERNARD ELEMENTARY,Saint Bernard,45217,Yes,No,No
+97.73,A,"1040 Maysville Rd, Mount Sterling, Kentucky, 40353", , ,-83.94950491,38.08497838,Montgomery County,KY,181018,"STERLING HEALTH SOLUTIONS, INC",Mount Sterling,40353,Yes,No,Yes
+97.66,A,"724 Woodford Dr, Mount Sterling, Kentucky, 40353", , ,-83.94062944,38.04517642,Montgomery County,KY,181020,"STERLING HEALTH SOLUTIONS, INC",Mount Sterling,40353,Yes,No,Yes
+98.07,A,"12100 Superior Ave, Cleveland, Ohio, 44106",Glenville, ,-81.60124209,41.52298067,Cuyahoga County,OH,361836,SUPERIOR CENTER,Cleveland,44106,Yes,No,No
+98.07,A,"2816 Veach Rd, Owensboro, Kentucky, 42303", , ,-87.10156504,37.74551285,Daviess County,KY,181964,THE NEEL CLINIC HEALTH FIRST,Owensboro,42303,Yes,No,No
+98.17,A,"770 Balgreen Dr, Mansfield, Ohio, 44906", , ,-82.55362968,40.73879254,Richland County,OH,361960,THIRD STREET OB/GYN,Mansfield,44906,Yes,No,No
+92.8,A,"870 US-42, Warsaw, Kentucky, 41095", , ,-84.88865468,38.78679602,Gallatin County,KY,181864,"TRIAD HEALTH SYSTEMS, INC",Warsaw,41095,Yes,No,No
+98.57,A,"165 S Edwin C Moses Blvd, Dayton, Ohio, 45402",Five Points, ,-84.20635281,39.7537722,Montgomery County,OH,361978,VICTOR CASSANO HEALTH CENER,Dayton,45402,Yes,No,No
+82.66,A,Washington Courthouse Municipal Ct, , ,-83.44034006,39.53612,Fayette County,OH,361853,WASHINGTON COURT HOUSE FAMILY HLTH CTR,Washington Court House,43160,Yes,No,Yes
+85.71,A,"23030 OH-73, West Portsmouth, Ohio, 45663", , ,-83.01722502,38.76629861,Scioto County,OH,361874,WEST PORTSMOUTH FAMILY PRACTICE CENTER,Portsmouth,45663,No,No,Yes
+98,A,"11652 Highway 52 E, Paint Lick, Kentucky, 40461", , ,-84.42283026,37.60231196,Garrard County,KY,181927,WHITE HOUSE CLINICS,Paint Lick,40461,Yes,No,Yes
+98,A,"882 S Hamilton Rd, Columbus, Ohio, 43213", , ,-82.87657545,39.95796555,Franklin County,OH,361944,WHITEHALL FAMILY HEALTH CENTER,Whitehall,43213,Yes,No,No
+98.26,A,"200 Harding Ave, Kenton, Ohio, 43326", , ,-83.59763674,40.65281958,Hardin County,OH,361116,WILDCAT HEALTH CENTER,Kenton,43326,Yes,No,Yes
+97.74,A,"1019 Linn St, Cincinnati, Ohio, 45203",West End,Cincinnati Metro Area,-84.52810598,39.10640624,Hamilton County,OH,361950,WINMED CITY WEST,Cincinnati,45203,Yes,No,No
+97.93,A,"39 Jim Hill Service Rd, Monticello, Kentucky, 42633", , ,-84.85710225,36.85054101,Wayne County,KY,181007,WOMENS CARE OF LAKE CUMBERLAND,Monticello,42633,Yes,No,Yes
+97.89,A,"3132 Belmont Ave, Youngstown, Ohio, 44505", , ,-80.66554697,41.13936,Trumbull County,OH,361135,ACT CENTER FOR RECOVERY,Youngstown,44505,Yes,No,No
+97.87,A,"526 Indian Dr, Columbia, Kentucky, 42728", , ,-85.33093759,37.10848006,Adair County,KY,181941,ADAIR COUNTY HIGH HEALTHY KIDS CLINIC,Columbia,42728,Yes,No,Yes
+98.1,A,"819 3rd St, Albany, Kentucky, 42602", , ,-85.14136334,36.69772318,Clinton County,KY,181957,ALBANY ELEMENTARY HEALTHY KIDS CLINIC,Albany,42602,Yes,No,Yes
+88.94,A,"Indian Dr, Columbia, Kentucky, 42728", , ,-85.32969706,37.10734332,Adair County,KY,181948,ADAIR COUNTY ELEMENTARY HEALTHY KIDS CLINIC,Columbia,42728,Yes,No,Yes
+98.7,A,"676 S Broadway St, Akron, Ohio, 44311",Downtown Akron, ,-81.52457148,41.06673394,Summit County,OH,361057,AXESSPOINTE / AKRON GENERAL BROADWAY WH-IM,Akron,44311,Yes,No,No
+98.1,A,"5 Alexandersville Rd, Miamisburg, Ohio, 45342", , ,-84.24364857,39.64053554,Montgomery County,OH,361026,ALEX CENTRAL HEALTH CENTER,Miamisburg,45342,Yes,No,No
+97.91,A,"2924 Holt St, Ashland, Kentucky, 41101", , ,-82.64073442,38.46015492,Boyd County,KY,181921,ASHLAND FAMILY HEALTH CENTER,Ashland,41101,Yes,No,No
+95,A,"5266 State Route 45, Rome, Ohio, 44085", , ,-80.86500574,41.60570417,Ashtabula County,OH,361962,ASHTABULA COMMUNITY HEALTH CENTER,Rome,44085,Yes,Yes,Yes
+98.04,A,"151 N Eagle Creek Dr, Lexington, Kentucky, 40509", , ,-84.4399021,38.00074163,Fayette County,KY,181869,BLUEGRASS COMMUNITY HEALTH CENTER,Lexington,40509,No,No,No
+98.15,A,"72 Buckhorn Clinic Rd, Buckhorn, Kentucky, 41721", , ,-83.47037681,37.34657974,Perry County,KY,181833,BUCKHORN MEDICAL CLINIC,Buckhorn,41721,No,No,Yes
+97.92,A,"107 5th St SE, Barberton, Ohio, 44203", , ,-81.58994359,41.00725694,Summit County,OH,361013,BARBERTON CLINIC,Barberton,44203,Yes,No,No
+98.39,A,"1551 Augusta Chatham Rd, Augusta, Kentucky, 41002", , ,-84.01489624,38.734695,Bracken County,KY,181878,BRACKEN COUNTY FAMILY HEALTH CENTER,Augusta,41002,No,No,No
+97.72,A,"103 W Main St, Salineville, Ohio, 43945", , ,-80.84209486,40.62206249,Columbiana County,OH,361010,"CAA HEALTH, BEHAVIORAL HEALTH AND DENTAL CENTER",Salineville,43945,Yes,No,Yes
+91.54,A,"13804 State Route 141, Kitts Hill, Ohio, 45645", , ,-82.49353611,38.59618706,Lawrence County,OH,361002,AID FAMILY MEDICAL CENTER,Kitts Hill,45645,Yes,No,No
+98.04,A,"1306 Versailles Rd, Lexington, Kentucky, 40504", , ,-84.52242764,38.04978625,Fayette County,KY,181870,BLUEGRASS COMMUNITY HEALTH CENTER,Lexington,40504,Yes,No,No
+98,A,"1510 California Ave, Cincinnati, Ohio, 45237",Bond Hill,Cincinnati Metro Area,-84.47166072,39.17607448,Hamilton County,OH,361951,BOND HILL ACADEMY ELEMENTARY,Cincinnati,45237,Yes,No,No
+97.78,A,"621 Broadway St, Portsmouth, Ohio, 45662",4th Ward, ,-82.97443907,38.73480454,Scioto County,OH,361036,BROADWAY STREET CLINIC,Portsmouth,45662,Yes,No,Yes
+97.54,A,"1 Bearcat Dr, Lawrenceburg, Kentucky, 40342", , ,-84.90938677,38.02315623,Anderson County,KY,181002,ANDERSON COUNTY HIGH HEALTHY KIDS CLINIC,Lawrenceburg,40342,No,No,Yes
+98.17,A,"1530 Saint Clair Ave NE, Cleveland, Ohio, 44114",Avenue District, ,-81.68476973,41.50666711,Cuyahoga County,OH,361893,CARE ALLIANCE,Cleveland,44114,Yes,No,No
+98,A,"2150 Agler Rd, Columbus, Ohio, 43224",Northeast Columbus, ,-82.95442897,40.0271145,Franklin County,OH,361889,CAPITAL PARK FAMILY HEALTH CENTER,Columbus,43224,No,No,No
+0,M, , , ,-81.6868747,41.5046037,Cuyahoga County,OH,361895,CARE ALLIANCE,Cleveland,44114,Yes,No,No
+98.16,A,"595 Bartson Rd, Fremont, Ohio, 43420", , ,-83.1534374,41.340402,Sandusky County,OH,361977,"CENTER FOR WOMEN'S HEALTH, THE",Fremont,43420,Yes,No,Yes
+98.22,A,"136 W Center St, Marion, Ohio, 43302", , ,-83.12969342,40.58863651,Marion County,OH,361965,"CENTER STREET COMMUNITY CLINIC, INC",Marion,43302,Yes,No,Yes
+97.95,M,"1673 E Ky 70, Liberty, Kentucky, 42539", , ,-84.9282422,37.31842857,CASEY COUNTY,KY,181951,CASEY COUNTY MIDDLE HEALTHY KIDS CLINIC,Liberty,42539,Yes,No,Yes
+98.09,A,"376 Randolph St, Liberty, Kentucky, 42539", , ,-84.93893643,37.31151212,Casey County,KY,181932,CASEY FAMILY MEDICAL,Liberty,42539,Yes,No,Yes
+98.13,A,"2245 Bauer Rd, Batavia, Ohio, 45103", ,Cincinnati Metro Area,-84.15233849,39.08225755,Clermont County,OH,361820,BATAVIA FAMILY PRACTICE/OB-GYN,Batavia,45103,Yes,No,No
+98.25,A,"3820 Superior Ave E, Cleveland, Ohio, 44114",Goodrich-Kirtland Park, ,-81.66437919,41.51289144,Cuyahoga County,OH,361051,ASIA INTERNATIONAL COMMUNITY HEALTH CENTER,Cleveland,44114,Yes,No,No
+97.93,A,"5051 Duck Creek Rd, Cincinnati, Ohio, 45227",Madisonville,Cincinnati Metro Area,-84.40776555,39.16465155,Hamilton County,OH,361110,CINCINNATI  HD - THE CHILDREN'S HOME OF CINCINNATI,Cincinnati,45227,Yes,No,No
+97.59,A,"101 E Main St, Barnesville, Ohio, 43713", , ,-81.17708558,39.98784916,Belmont County,OH,361859,BARNESVILLE FAMILY HEALTH CENTER,Barnesville,43713,No,No,Yes
+97.69,A,"717 3rd Ave, Chesapeake, Ohio, 45619", , ,-82.46047523,38.42718289,Lawrence County,OH,361851,CHESAPEAKE FAMILY MEDICAL CENTER,Chesapeake,45619,No,Yes,No
+98.33,A,"700 Martin Luther King Jr Ave, Henderson, Kentucky, 42420", , ,-87.59056597,37.83042257,Henderson County,KY,181963,CABELL PLAT MEDICAL CENTER,Henderson,42420,No,No,No
+97.86,A,"1036 S Verity Pkwy, Middletown, Ohio, 45044", ,Cincinnati Metro Area,-84.40854921,39.50550205,Butler County,OH,361911,BUTLER COUNTY COMMUNITY HEALTH CONSORTIUM INC,Middletown,45044,Yes,No,No
+97.92,A,"1701 Payne Ave, Cleveland, Ohio, 44114",Playhouse Square, ,-81.68043049,41.504716,Cuyahoga County,OH,361899,CARE ALLIANCE,Cleveland,44114,Yes,No,No
+98.43,A,"299 Cramer Creek Ct, Dublin, Ohio, 43017", , ,-83.12111989,40.08375559,Franklin County,OH,361064,CNHC DUBLIN,Dublin,43017,Yes,No,No
+98.3,A,"10220 Dixie Beeline Hwy, Guthrie, Kentucky, 42234", , ,-87.19495103,36.64658753,Todd County,KY,181012,"COMMUNITY HEALTH CENTERS OF WESTERN KENTUCKY, INC",Guthrie,42234,Yes,No,Yes
+97.93,A,"2516 W Madison St, Louisville, Kentucky, 40211",Russell, ,-85.79388618,38.25398566,Jefferson County,KY,181824,COMMUNITY HEALTH CTR OF W LOUISVILLE,Louisville,40211,Yes,No,No
+98.63,A,"2020 E State St, Salem, Ohio, 44460", , ,-80.83293283,40.90096351,Columbiana County,OH,361979,COMMUNITY ACTION AGENCY BEHAVIORAL HEALTH SERVICES,Salem,44460,Yes,No,Yes
+97.82,A,"231 N Breiel Blvd, Middletown, Ohio, 45042", , ,-84.35416603,39.51550013,Butler County,OH,361123,CENTERPOINT HEALTH,Middletown,45042,Yes,No,No
+97.96,A,"5005 Euclid Ave, Cleveland, Ohio, 44103",Goodrich-Kirtland Park, ,-81.65384709,41.50405436,Cuyahoga County,OH,361897,CARE ALLIANCE,Cleveland,44103,Yes,No,No
+98.04,A,"6601 Woodland Ave, Cleveland, Ohio, 44104",Central, ,-81.64424867,41.4881427,Cuyahoga County,OH,361894,CARE ALLIANCE,Cleveland,44104,Yes,No,No
+97.76,A,"4879 US Highway 68 S, West Liberty, Ohio, 43357", , ,-83.76029584,40.29185802,Logan County,OH,361037,COMMUNITY HEALTH & WELLNESS PARTNERS OF LOGAN CO,West Liberty,43357,Yes,No,Yes
+98.11,A,"407 Independence Dr, Napoleon, Ohio, 43545", , ,-84.11740928,41.41014154,Henry County,OH,361974,COMMUNITY HEALTH SERVICES - NAPOLEON,Napoleon,43545,Yes,No,Yes
+97.86,A,"522 Maxwell Ave, Cincinnati, Ohio, 45219",Avondale,Cincinnati Metro Area,-84.49857108,39.13342048,Hamilton County,OH,361931,CONSUMER WELLNESS CENTER AT CCHB,Cincinnati,45219,Yes,No,No
+97.86,A,"1501 Madison Rd, Cincinnati, Ohio, 45206",East Walnut Hills,Cincinnati Metro Area,-84.47903556,39.12981587,Hamilton County,OH,361929,CONSUMER WELLNESS CENTER AT GCBHS,Cincinnati,45206,Yes,No,No
+97.89,A,"612 Rockdale Ave, Cincinnati, Ohio, 45229",Avondale, ,-84.49463138,39.14471347,Hamilton County,OH,361958,CREST SMILE SHOPPE,Cincinnati,45229,Yes,No,No
+98.13,A,"2859 Boudinot Ave, Cincinnati, Ohio, 45238",Westwood,Cincinnati Metro Area,-84.60488724,39.13495184,Hamilton County,OH,361029,CROSSROAD HEALTH CENTER WEST,Cincinnati,45238,No,No,No
+97.69,A,"800 Bank St, Cincinnati, Ohio, 45214",West End,Cincinnati Metro Area,-84.52745545,39.11928205,Hamilton County,OH,361074,CINCINNATI HEALTH DEPARTMENT- CITYLINK CENTER,Cincinnati,45214,Yes,No,No
+97.89,A,"40 E McMicken Ave, Cincinnati, Ohio, 45202",Over-the-Rhine,Cincinnati Metro Area,-84.5158435,39.11588592,Hamilton County,OH,361014,CINCINNATI HEALTH NETWORK INC,Cincinnati,45202,Yes,No,No
+97.89,A,"40 E McMicken Ave, Cincinnati, Ohio, 45202",Over-the-Rhine,Cincinnati Metro Area,-84.5158435,39.11588592,Hamilton County,OH,361008,CINCINNATI HEALTH NETWORK INC,Cincinnati,45202,Yes,No,No
+88.94,M,"965 S Highway 25 W, Williamsburg, Kentucky, 40769", , ,-84.1587853,36.74248609,WHITLEY COUNTY,KY,181827,CUMBERLAND RIVER CLINIC,Williamsburg,40769,No,No,Yes
+98,A,"211 Biede Ave, Defiance, Ohio, 43512", , ,-84.34374657,41.28560633,Defiance County,OH,361017,DEFIANCE COMMUNITY HEALTH CENTER,Defiance,43512,Yes,No,Yes
+83.93,A,"High St, Albany, Kentucky, 42602", , ,-85.13711096,36.69848591,Clinton County,KY,181944,CLINTON COUNTY HIGH HEALTHY KIDS CLINIC,Albany,42602,Yes,No,Yes
+97.65,A,"1634 11th St, Portsmouth, Ohio, 45662",2nd Ward, ,-82.98162339,38.73885655,Scioto County,OH,361073,COMPASS COMMUNITY HEALTH,Portsmouth,45662,Yes,No,Yes
+98.14,A,"15322 Saint Clair Ave, Cleveland, Ohio, 44110",South-Collinwood, ,-81.57361774,41.55465351,Cuyahoga County,OH,361834,COLLINWOOD CENTER,Cleveland,44110,Yes,No,No
+97.93,A,"5837 Hamilton Ave, Cincinnati, Ohio, 45224",College Hill,Cincinnati Metro Area,-84.5464629,39.19819181,Hamilton County,OH,361930,CONSUMER WELLNESS CENTER AT CORE,Cincinnati,45224,Yes,No,No
+98.24,A,"410 Birchard Ave, Fremont, Ohio, 43420", , ,-83.11507128,41.34438246,Sandusky County,OH,361831,COMMUNITY & RURAL HEALTH SERVICES,Fremont,43420,No,No,Yes
+87.8,A,East Cleveland Theater, , ,-81.58415998,41.52831993,Cuyahoga County,OH,361879,EAST CLEVELAND HEALTH CENTER,East Cleveland,44112,No,No,No
+97.72,A,"912 N Main St, Burkesville, Kentucky, 42717", , ,-85.3640201,36.79986563,Cumberland County,KY,181950,CUMBERLAND COUNTY HIGH HEALTHY KIDS CLINIC,Burkesville,42717,Yes,No,Yes
+98.22,A,"642 Division St, Toledo, Ohio, 43604",Onyx, ,-83.55231564,41.64557962,Lucas County,OH,361907,DAISY SMITH COMMUNITY HEALTH CENTER,Toledo,43604,Yes,No,No
+98.06,A,"226 Hopkinsville St, Greenville, Kentucky, 42345", , ,-87.18331567,37.19687912,Muhlenberg County,KY,181865,"COMMUNITY HEALTH CENTERS OF WESTERN KY, INC",Greenville,42345,Yes,No,Yes
+97.69,A,"1525 Elm St, Cincinnati, Ohio, 45202",Over-the-Rhine,Cincinnati Metro Area,-84.51917464,39.11220632,Hamilton County,OH,361803,ELM ST HEALTH CENTER,Cincinnati,45202,Yes,No,No
+97.7,A,"975 Hopkinsville Rd, Russellville, Kentucky, 42276", , ,-86.91750281,36.83971909,Logan County,KY,181886,"COMMUNITY HEALTH CENTERS OF WESTERN KY, INC",Russellville,42276,Yes,No,Yes
+95.82,A,"5734 Fremont Pike, Perrysburg, Ohio, 43551", , ,-83.50698872,41.50986003,Wood County,OH,361070,COMMUNITY HEALTH SERVICES STONY RIDGE,Stony Ridge,43463,Yes,No,No
+98.54,A,"201 Hospital Dr, Dover, Ohio, 44622", , ,-81.45469776,40.51430635,Tuscarawas County,OH,361081,COMMUNITY MENTAL HEALTHCARE INC,Dover,44622,Yes,No,Yes
+98.14,A,"1587 Granville Pike, Lancaster, Ohio, 43130", , ,-82.58820136,39.73887046,Fairfield County,OH,361920,FAIRFIELD DEPARTMENT OF HEALTH,Lancaster,43130,Yes,No,Yes
+78.18,M,"615 7th Ave, Bowling Green, Kentucky, 42101", , ,-86.44516,36.99245,WARREN COUNTY,KY,181863,FAIRVIEW COMMUNITY HEALTH CENTER,Bowling Green,42102,Yes,No,No
+98.26,A,"905 Nebraska Ave, Toledo, Ohio, 43607",Onyx, ,-83.56635428,41.64550951,Lucas County,OH,361823,CORDELIA MARTIN HEALTH CENTER,Toledo,43607,Yes,No,No
+98.15,A,"10400 New Haven Rd, Harrison, Ohio, 45030", ,Cincinnati Metro Area,-84.79012241,39.26204352,Hamilton County,OH,361072,CROSSROAD HEALTH CENTER HARRISON,Harrison,45030,No,No,No
+98.33,A,"1821 E Market St, Warren, Ohio, 44483", , ,-80.7937605,41.23655246,Trumbull County,OH,361000,EAST MARKET PEDIATRICS,Warren,44483,Yes,No,No
+97.93,A,"4100 Taylor Blvd, Louisville, Kentucky, 40215",Hazelwood, ,-85.78374831,38.18283365,Jefferson County,KY,181815,FAMILY HEALTH CENTER IROQUOIS,Louisville,40215,Yes,No,No
+98.43,A,"2351 Stanley Ave, Dayton, Ohio, 45404",Old North Dayton, ,-84.17166652,39.78690669,Montgomery County,OH,361942,CORWIN NIXON HEALTH CENTER,Dayton,45404,Yes,No,No
+98.52,A,"30 E Apple St, Dayton, Ohio, 45409",South Park, ,-84.18712453,39.74641786,Montgomery County,OH,361053,FIVE RIVERS HEALTH CENTER,Dayton,45409,Yes,No,No
+97.6,A,"133 W Main St, Greenville, Ohio, 45331", , ,-84.63450677,40.10168224,Darke County,OH,361112,FAMILY HEALTH SERVICES OF DARKE COUNTY INC,Greenville,45331,Yes,No,Yes
+98.4,A,"1800 Livingston Ave, Lorain, Ohio, 44052", , ,-82.16792676,41.45369802,Lorain County,OH,361884,FAMILY LIVING CENTER OF LORAIN,Lorain,44052,No,No,No
+97.8,A,"150 Glasgow Rd, Burkesville, Kentucky, 42717", , ,-85.36943156,36.7936326,Cumberland County,KY,181949,CUMBERLAND COUNTY ELEMENTARY HEALTHY KIDS CLINIC,Burkesville,42717,Yes,No,Yes
+97.96,A,"1201 Euclid Ave, Cleveland, Ohio, 44115",Playhouse Square, ,-81.68438688,41.50062533,Cuyahoga County,OH,361018,FREE MEDICAL CLINIC OF GREATER CLEVELAND,Cleveland,44115,Yes,No,No
+98.55,A,"2261 Philadelphia Dr, Dayton, Ohio, 45406",Fairview, ,-84.23501452,39.78786884,Montgomery County,OH,361007,FIVE RIVERS HEALTH CENTERS,Dayton,45406,Yes,No,No
+97.59,A,"1154 Bypass N, Lawrenceburg, Kentucky, 40342", , ,-84.91423369,38.04585783,Anderson County,KY,181989,EZRA SPARROW EARLY CHILDHOOD CTR HLTHY KIDS CLINIC,Lawrenceburg,40342,Yes,No,Yes
+98.14,A,"204 King Dr, Albany, Kentucky, 42602", , ,-85.13483129,36.71035296,Clinton County,KY,181947,EARLY CHILDHOOD CENTER HEALTHY KIDS CLINIC,Albany,42602,Yes,No,Yes
+98.3,A,"2132 E 3rd St, Dayton, Ohio, 45403",Historic Inner East, ,-84.16341943,39.76410669,Montgomery County,OH,361943,EAST DAYTON HEALTH CENTER,Dayton,45403,Yes,No,No
+97.88,A,"216 Trace Dr, Lancaster, Ohio, 43130", , ,-82.62450882,39.70721086,Fairfield County,OH,361967,FAIRFIELD COMMUNITY HEALTH CENTER HUNTER TRACE,Lancaster,43130,Yes,No,Yes
+83.19,A,Newton Falls High School, , ,-80.96194,41.1772,Trumbull County,OH,361098,FALLS FAMILY CARE,Newton Falls,44444,Yes,No,No
+97.96,A,"110 W Main St, Freeport, Ohio, 43973", , ,-81.26756831,40.21006329,Harrison County,OH,361828,FREEPORT FAMILY HEALTH CENTER,Freeport,43973,No,No,Yes
+98.18,A,"105 Louden Ct, Elyria, Ohio, 44035", , ,-82.10032242,41.34477148,Lorain County,OH,361063,FAMILY CARE CENTER OF LORAIN,Elyria,44035,Yes,No,No
+98.13,A,"227 Valley View Dr, Waverly, Ohio, 45690", , ,-83.00436094,39.11721876,Pike County,OH,361839,FAMILY HEALTH CENTER,Waverly,45690,Yes,No,Yes
+97.65,A,"631 E State St, Georgetown, Ohio, 45121", , ,-83.89507586,38.86334422,Brown County,OH,361818,GEORGETOWN FAMILY HEALTH CENTER,Georgetown,45121,Yes,No,No
+97.83,A,"210 S 2nd St, Hamilton, Ohio, 45011", ,Cincinnati Metro Area,-84.56258292,39.39833127,Butler County,OH,361910,ERNEST J BEVER COMMUNITY HEALTH CENTER,Hamilton,45011,Yes,No,No
+98.18,A,"405 S Linden Ave, Alliance, Ohio, 44601", , ,-81.09999039,40.91806995,Stark County,OH,361888,GOOD SAMARITAN COMMUNITY HEALTH CENTER,Alliance,44601,No,No,Yes
+98.11,A,"709 Fairdale Rd, Fairdale, Kentucky, 40118", , ,-85.75495442,38.107708,Jefferson County,KY,181816,FAMILY HEALTH CENTER FAIRDALE,Fairdale,40118,Yes,No,No
+92.73,A,"1507 State Route 28, Loveland, Ohio, 45140", ,Cincinnati Metro Area,-84.19852812,39.21620086,Clermont County,OH,361814,GOSHEN FAMILY PRACTICE,Loveland,45140,Yes,No,No
+98.46,A,"1 Trillium Way, Corbin, Kentucky, 40701", , ,-84.11401271,36.92196501,Whitley County,KY,181928,GRACE COMMUNITY WOMEN'S HEALTH,Corbin,40701,Yes,No,Yes
+98.04,A,"245 N Grant Ave, Columbus, Ohio, 43215",Downtown Columbus, ,-82.99210842,39.96843721,Franklin County,OH,361129,FAITH MISSION CLINIC,Columbus,43215,Yes,No,No
+98.37,A,"525 E Front St, Logan, Ohio, 43138", , ,-82.40101475,39.53766657,Hocking County,OH,361886,"FAMILY HEALTHCARE, INC-LOGAN",Logan,43138,No,No,Yes
+97.69,A,"5735 Meeker Rd, Greenville, Ohio, 45331", , ,-84.6275156,40.08339,Darke County,OH,361840,FAMILY HEALTH,Greenville,45331,No,Yes,Yes
+97.97,A,"2215 Portland Ave, Louisville, Kentucky, 40212",Portland, ,-85.78436064,38.26911277,Jefferson County,KY,181810,FAMILY HEALTH CENTER PORTLAND,Louisville,40212,Yes,No,No
+98.1,A,"700 E Muhammad Ali Blvd, Louisville, Kentucky, 40202",Phoenix Hill, ,-85.74054628,38.2492696,Jefferson County,KY,181814,FAMILY HEALTH CENTER ST JOHNS,Louisville,40202,Yes,No,No
+97.74,A,"101 Anderson St, New Madison, Ohio, 45346", , ,-84.70257104,39.97213405,Darke County,OH,361056,FAMILY HEALTH SERVICES INC,New Madison,45346,Yes,No,Yes
+97.87,A,"1912 Hayes Ave, Sandusky, Ohio, 44870", , ,-82.71286172,41.43746799,Erie County,OH,361966,FAMILY HEALTH SERVICES OF ERIE COUNTY,Sandusky,44870,Yes,No,Yes
+98.26,A,"315 1/2 W Union St, Athens, Ohio, 45701", , ,-82.11543907,39.32979571,Athens County,OH,361887,"FAMILY HEALTHCARE, INC-ATHENS",Athens,45701,No,No,Yes
+98.37,A,"725 S Ludlow St, Dayton, Ohio, 45402",Midtown Dayton, ,-84.19137434,39.75083008,Montgomery County,OH,361004,FIVE RIVERS HEALTH CENTER,Dayton,45402,Yes,No,No
+97.88,A,"200 Park Ave W, Mansfield, Ohio, 44902", , ,-82.52335041,40.7588975,Richland County,OH,361120,FIVE POINTS PRIMARY CARE,Mansfield,44902,Yes,No,No
+98.3,A,"1 Wyoming St, Dayton, Ohio, 45409",University Park, ,-84.1874771,39.74376427,Montgomery County,OH,361005,FIVE RIVERS HEALTH CENTERS,Dayton,45409,Yes,No,No
+89.3,A,"McArthur Ave, Mc Arthur, Ohio, 45651", , ,-82.48292325,39.2506785,Vinton County,OH,361824,HARTWELL MEDICAL CENTER,Mc Arthur,45651,Yes,No,Yes
+97.92,A,"7607 Dixie Hwy, Florence, Kentucky, 41042", ,Cincinnati Metro Area,-84.62433213,38.9928303,Boone County,KY,181901,"HEALTHPOINT FAMILY CARE, INC",Florence,41042,Yes,No,No
+97.58,A,"101 Orchard Dr, Nicholasville, Kentucky, 40356", , ,-84.5670395,37.89437659,Jessamine County,KY,181910,"HEALTHPOINT FAMILY CARE, INC",Nicholasville,40356,Yes,No,No
+98.3,A,"30 E Apple St, Dayton, Ohio, 45409",South Park, ,-84.18712453,39.74641786,Montgomery County,OH,361006,FIVE RIVERS HEALTH CENTERS,Dayton,45409,Yes,No,No
+98.57,A,"921 S Edwin C Moses Blvd, Dayton, Ohio, 45417",Carillon, ,-84.19552276,39.74435442,Montgomery County,OH,361076,FIVE RIVERS HEALTH CENTERS SAMARITAN HOMELESS CLIN,Dayton,45417,Yes,No,No
+97.92,M,"102 Rhodes St, Gamaliel, Kentucky, 42140", , ,-85.79921323,36.64175636,MONROE COUNTY,KY,181935,GAMALIEL FAMILY MEDICAL,Gamaliel,42140,Yes,No,Yes
+97.76,A,"1100 Pike St, Covington, Kentucky, 41011", ,Cincinnati Metro Area,-84.5234337,39.07537646,Kenton County,KY,181840,HEALTH POINT FAMILY CARE INC,Covington,41011,No,No,No
+97.8,A,"104 Erin Ct, Hillsboro, Ohio, 45133", , ,-83.61126175,39.22330072,Highland County,OH,361890,HILLSBORO HEALTH CENTER,Hillsboro,45133,No,No,Yes
+97.69,A,"107 E Main St, Earlington, Kentucky, 42410", , ,-87.51193696,37.27436895,Hopkins County,KY,181977,HEALTHFIRST COMMUNITY HEALTH CENTER,Earlington,42410,Yes,No,Yes
+97.76,A,"313 S Cherry St, Pineville, Kentucky, 40977", , ,-83.69491915,36.75966548,Bell County,KY,181971,"GRACE COMMUNITY HEALTH CENTER, INC",Pineville,40977,Yes,No,Yes
+97.69,A,"239 Richmond Rd, Manchester, Kentucky, 40962", , ,-83.76607936,37.15742596,Clay County,KY,181924,"GRACE COMMUNITY HEALTH CENTER, INC",Manchester,40962,Yes,No,Yes
+98.22,A,"90 Hospital Dr, Athens, Ohio, 45701", , ,-82.11789441,39.32787906,Athens County,OH,361080,HOPEWELL HEALTH CENTERS INC,Athens,45701,Yes,No,Yes
+98.67,A,"39 Cumberland Gap Plz, Gray, Kentucky, 40734", , ,-83.98201712,36.94924817,Knox County,KY,181872,"GRACE COMMUNITY HEALTH CENTER, INC",Gray,40734,Yes,No,Yes
+98.14,A,"923 N Huron St, Toledo, Ohio, 43604",Northriver, ,-83.52804176,41.65868117,Lucas County,OH,361906,HURON STREET MEDICAL CLINIC,Toledo,43604,Yes,No,No
+98.18,A,"43 E Main St, Amelia, Ohio, 45102", ,Cincinnati Metro Area,-84.21472447,39.0260043,Clermont County,OH,361104,GREATER CINCINNATI BEHAVIORAL HEALTH SERVICES,Amelia,45102,Yes,No,No
+98,A,"225 N Irwin Rd, Holland, Ohio, 43528", , ,-83.77922675,41.63895764,Lucas County,OH,361086,HOLLAND HEALTH CARE,Holland,43528,Yes,No,No
+97.92,A,"8300 Hough Ave, Cleveland, Ohio, 44103",Hough, ,-81.62998183,41.50933149,Cuyahoga County,OH,361801,HOUGH CENTER,Cleveland,44103,Yes,No,No
+93.91,A,"21154 Highway 421, Hyden, Kentucky, 41749", , ,-83.37202921,37.15301847,Leslie County,KY,181011,"HYDEN, INC",Hyden,41749,Yes,No,Yes
+97.96,A,"496 Southland Dr, Lexington, Kentucky, 40503",Picadome, ,-84.52851588,38.02077785,Fayette County,KY,181967,"HEALTHFIRST BLUEGRASS, INC",Lexington,40503,Yes,No,No
+98.23,A,"1401 Harrodsburg Rd, Lexington, Kentucky, 40504",Picadome, ,-84.5251069,38.0328529,Fayette County,KY,181965,"HEALTHPOINT FAMILY CARE, INC",Lexington,40504,Yes,No,No
+97.97,A,"8074 Beechmont Ave, Cincinnati, Ohio, 45255",Cherry Grove,Cincinnati Metro Area,-84.331323,39.07306948,Hamilton County,OH,361039,HEALTHSOURCE ANDERSON OB/GYN,Cincinnati,45255,Yes,No,No
+98.26,A,"30 Stacy Lane Rd, Irvine, Kentucky, 40336", , ,-84.00050302,37.7031018,Estill County,KY,181874,HEALTH HELP INCORPORATED,Irvine,40336,Yes,No,Yes
+98.46,A,"1550 N Main St, Lima, Ohio, 45801", , ,-84.10500674,40.76262917,Allen County,OH,361042,HEALTH PARTNERS OF WESTERN OHIO QUICK CARE,Lima,45801,Yes,No,No
+98.08,A,"103 Landmark Dr, Bellevue, Kentucky, 41073", ,Cincinnati Metro Area,-84.4846374,39.10036915,Campbell County,KY,181813,HEALTH POINT FAMILY CARE INC,Bellevue,41073,Yes,No,No
+97.68,A,"194 N Main St, Mount Olivet, Kentucky, 41064", , ,-84.03486995,38.53405672,Robertson County,KY,181846,HEALTH POINT FAMILY CARE/MT OLIVET,Mount Olivet,41064,Yes,No,Yes
+97.92,A,"360 W Loudon Ave, Lexington, Kentucky, 40508", , ,-84.49490737,38.06256976,Fayette County,KY,181969,"HEALTHFIRST BLUE GRASS, INC",Lexington,40508,Yes,No,No
+98.04,A,"1736 Alexandria Dr, Lexington, Kentucky, 40504", , ,-84.55223077,38.03969667,Fayette County,KY,181933,"HEALTHFIRST BLUE GRASS, INC,",Lexington,40504,Yes,No,No
+98.09,A,"120 Progress Way, Owenton, Kentucky, 40359", , ,-84.84376054,38.55103246,Owen County,KY,181938,HEALTHPOINT FAMILY CARE INC,Owenton,40359,Yes,No,Yes
+97.78,A,"781 W Locust St, Wilmington, Ohio, 45177", , ,-83.84229086,39.44729448,Clinton County,OH,361985,HEALTHSOURCE  WILMINGTON,Wilmington,45177,Yes,No,Yes
+89.57,A,"Plummer St, Campton, Kentucky, 41301", , ,-83.54868755,37.73514537,Wolfe County,KY,181919,JHI WOLFE COUNTY FAMILY MEDICAL CLINIC,Campton,41301,Yes,No,Yes
+98.11,A,"1905 Parsons Ave, Columbus, Ohio, 43207",Reeb-Hosack, ,-82.98453481,39.92399458,Franklin County,OH,361031,JOHN R MALONEY SOUTHSIDE HEALTH & WELLNESS CENTER,Columbus,43207,Yes,No,No
+98.14,A,"111 W Espy St, Kenton, Ohio, 43326", , ,-83.60873946,40.64129716,Hardin County,OH,361045,KENTON COMMUNITY HEALTH CENTER,Kenton,43326,Yes,No,Yes
+97.96,A,"75 E Court St, Bardwell, Kentucky, 42023", , ,-89.00573586,36.86884376,Carlisle County,KY,181885,KENTUCKY CARE 21,Bardwell,42023,Yes,No,Yes
+98.21,A,"18500 Jacksonville Rd, Glouster, Ohio, 45732", , ,-82.08000034,39.47004646,Athens County,OH,361059,HOPEWELL HEALTH CENTERS INC,Glouster,45732,Yes,No,Yes
+98.2,A,"41865 Pomeroy Pike, Pomeroy, Ohio, 45769", , ,-81.99820495,39.05905776,Meigs County,OH,361921,"HOPEWELL HEALTH CENTERS, INC",Pomeroy,45769,Yes,No,Yes
+98.18,A,"2500 Sullivant Ave, Columbus, Ohio, 43204",Central Hilltop, ,-83.06556527,39.94505317,Franklin County,OH,361871,HILLTOP HEALTH CENTER,Columbus,43204,No,No,No
+97.35,A,"125 Main St, Beattyville, Kentucky, 41311", , ,-83.70852499,37.57231612,Lee County,KY,181848,LEE COUNTY FAMILY MEDICAL CLINIC,Beattyville,41311,Yes,No,Yes
+93.08,A,"8461 State Route 144, Stewart, Ohio, 45778", , ,-81.88015147,39.31370451,Athens County,OH,361133,HOPEWELL HEALTH CENTERS INC,Stewart,45778,Yes,No,Yes
+97.84,A,"1417 N Main St, Jamestown, Kentucky, 42629", , ,-85.07338274,37.00207938,Russell County,KY,181904,JAMESTOWN FAMILY MEDICAL CENTER,Jamestown,42629,Yes,No,Yes
+97.78,A,"1171 Adams St, Cincinnati, Ohio, 45215", ,Cincinnati Metro Area,-84.45517031,39.24443213,Hamilton County,OH,361805,LINCOLN PARK MEDICAL CENTER,Cincinnati,45215,Yes,No,No
+97.67,A,"409 Lincoln Park Dr, New Lexington, Ohio, 43764", , ,-82.20095217,39.72109957,Perry County,OH,361825,LINCOLN PARK MEDICAL CENTER,New Lexington,43764,Yes,No,Yes
+98.33,A,"1977 Niles Rd SE, Warren, Ohio, 44484", , ,-80.79680071,41.22157549,Trumbull County,OH,361970,LLOYD MCCOY COMMUNITY HEALTH CENTER,Warren,44484,Yes,No,No
+97.92,A,"105 Isom Plz, Jeremiah, Kentucky, 41826", , ,-82.90763847,37.18396846,Letcher County,KY,181986,ISOM MEDICAL CLINIC,Jeremiah,41826,No,No,Yes
+98.18,A,"412 E River St, Elyria, Ohio, 44035", , ,-82.09697553,41.36948809,Lorain County,OH,361022,LORAIN COUNTY HEALTH & DENTISTRY,Elyria,44035,Yes,No,No
+97.8,A,"342 S Main St, Jamestown, Kentucky, 42629", , ,-85.05937387,36.98025828,Russell County,KY,181958,JAMESTOWN ELEMENTARY HEALTHY KIDS CLINIC,Jamestown,42629,Yes,No,Yes
+83.26,A,Prestonsburg School, , ,-82.77962,37.67776,Floyd County,KY,181805,MAGOFFIN CLINIC,Prestonsburg,41653,Yes,No,Yes
+97.88,A,"820 Amherst Rd NE, Massillon, Ohio, 44646", , ,-81.51873624,40.80486288,Stark County,OH,361102,LIFECARE FAMILY HEALTH AND DENTAL CENTER INC,Massillon,44646,Yes,No,No
+98.2,A,"223 Carlton Davidson Ln, Ironton, Ohio, 45638", , ,-82.64737081,38.50178087,Lawrence County,OH,361852,KEMP FAMILY MEDICAL CENTER,Coal Grove,45638,No,Yes,No
+98.13,A,"125 S 20th St, Paducah, Kentucky, 42001", , ,-88.62036832,37.0768322,McCracken County,KY,181908,KENTUCKY CARE 43,Paducah,42001,Yes,No,Yes
+100,PP, , , ,-82.58119773,37.91319371,MARTIN COUNTY,KY,181881,MARTIN COUNTY COMMUNITY HEALTH CENTER,Inez,41224,Yes,No,Yes
+97.9,A,"11660 Upper Gilchrist Rd, Mount Vernon, Ohio, 43050", , ,-82.43705708,40.40404963,Knox County,OH,361130,KNOX COUNTY COMMUNITY HEALTH CENTER,Mount Vernon,43050,Yes,No,Yes
+98,A,"1560 S High St, Columbus, Ohio, 43207",Merion Village, ,-82.99576628,39.93018387,Franklin County,OH,361054,LOWER LIGHTS CHRISTIAN HEALTH CENTER INC,Columbus,43207,Yes,No,No
+85.35,A,"3 Vanceburg Boat Ramp, Vanceburg, Kentucky, 41179", , ,-83.32336504,38.60400449,Lewis County,KY,181845,LEWIS COUNTY PRIMARY CARE CENTER INC,Vanceburg,41179,Yes,No,Yes
+88,A,"40940, Kentucky", , ,-83.952455,36.68165,Whitley County,KY,181826,LAUREL FORK CLINIC,Frakes,40940,No,No,Yes
+98.43,A,"132 Village Center Rd, Harlan, Kentucky, 40831", , ,-83.31600527,36.81613554,Harlan County,KY,181841,MOUNTAIN COMPREHENSIVE HEALTH CORPORATION HMC,Harlan,40831,No,No,Yes
+97.68,A,"4279 N State Route 376 NW, Mcconnelsville, Ohio, 43756", , ,-81.85901487,39.66270649,Morgan County,OH,361923,MUSKINGUM VALLEY HEALTH CENTERS,Mcconnelsville,43756,Yes,No,Yes
+0,M, , , ,-81.8179189,41.4379125,Cuyahoga County,OH,361043,NEIGHBORHOOD FAMILY PRACTICE,Cleveland,44135,Yes,No,No
+98.27,A,"185 Circle Dr, Whitesburg, Kentucky, 41858", , ,-82.8067461,37.11492955,Letcher County,KY,181892,LETCHER COUNTY ALTERNATIVE EDUCATION SBC,Crown,41858,Yes,No,Yes
+98.04,A,"741 Scholl Rd, Mansfield, Ohio, 44907", , ,-82.52746757,40.73674167,Richland County,OH,361001,MANSFIELD FAMILY HEALTH,Mansfield,44907,Yes,No,No
+97.72,A,"6000 Cooper Rd, Westerville, Ohio, 43081",Northern Woods, ,-82.93539377,40.09262099,Franklin County,OH,361094,LOWER LIGHTS CHRISTIAN HEALTH CENTER INC,Westerville,43081,Yes,No,No
+98,A,"75 College St, Liberty, Kentucky, 42539", , ,-84.93453612,37.31655942,Casey County,KY,181979,LIBERTY ELEMENTARY HEALTHY KIDS CLINIC,Liberty,42539,Yes,No,Yes
+98.13,A,"554 N Leavitt Rd, Amherst, Ohio, 44001", , ,-82.21156679,41.41272782,Lorain County,OH,361126,LORAIN COUNTY HEALTH & DENTISTRY,Amherst,44001,Yes,No,No
+84.25,A,"Whitesburg Plz, Whitesburg, Kentucky, 41858", , ,-82.79538396,37.11642682,Letcher County,KY,181894,MARTHA JANE POTTER ELEMENTARY SBC,Whitesburg,41858,Yes,No,Yes
+98.22,A,"421 Memorial Dr, Hazard, Kentucky, 41701", , ,-83.19357605,37.25089071,Perry County,KY,181843,LITTLE FLOWER CLINIC,Hazard,41701,Yes,No,Yes
+97.96,A,"171 E 5th Ave, Columbus, Ohio, 43201",Italian Village, ,-83.00066437,39.98690451,Franklin County,OH,361093,LOWER LIGHTS CHRISTIAN HEALTH CENTER INC,Columbus,43201,No,No,No
+98.33,A,"3015 Mahoning Rd NE, Canton, Ohio, 44705", , ,-81.33252194,40.8161311,Stark County,OH,361035,MAHONING ROAD FAMILY HEALTH CENTER,Canton,44705,Yes,No,No
+97.88,A,"1465 E 55th St, Cleveland, Ohio, 44103",St. Clair-Superior, ,-81.65189683,41.51943034,Cuyahoga County,OH,361833,NORWOOD CENTER,Cleveland,44103,Yes,No,No
+97.55,A,"160 Cave St, Monticello, Kentucky, 42633", , ,-84.85272569,36.82963373,Wayne County,KY,181953,MONTICELLO ELEMENTARY HEALTHY KIDS CLINIC,Monticello,42633,Yes,No,Yes
+97.96,A,"991 Medical Park Dr, Maysville, Kentucky, 41056", , ,-83.80811652,38.64091424,Mason County,KY,181849,MAYSVILLE OB/GYN FAMILY HEALTH CENTER,Maysville,41056,Yes,No,Yes
+61.11,M,"69 S Main St, Owenton, Kentucky, 40359", , ,-84.47103,36.72425,OWEN COUNTY,KY,181882,MCCREARY FAMILY MEDICAL CENTER,Whitley City,42653,Yes,No,Yes
+0,M, , , ,-83.9193072,39.0260068,Brown County,OH,361809,MT ORAB FAMILY HEALTH CENTER,Mount Orab,45154,Yes,No,No
+97.87,A,"526 Indian Dr, Columbia, Kentucky, 42728", , ,-85.33093759,37.10848006,Adair County,KY,181984,ADAIR COUNTY HIGH HEALTHY KIDS CLINIC,Columbia,42728,Yes,No,Yes
+98.36,A,"937 Campbellsville Rd, Columbia, Kentucky, 42728", , ,-85.30050044,37.11384953,Adair County,KY,181861,ADAIR FAMILY MEDICINE CENTER INC,Columbia,42728,Yes,No,Yes
+98,A,"5209 Detroit Ave, Cleveland, Ohio, 44102",Detroit-Shoreway, ,-81.72339339,41.48581902,Cuyahoga County,OH,361082,NEIGHBORHOOD FAMILY PRACTICE,Cleveland,44102,Yes,No,No
+98.07,A,"6412 Franklin Blvd, Cleveland, Ohio, 44102",Detroit-Shoreway, ,-81.72990779,41.48198992,Cuyahoga County,OH,361987,NEIGHBORHOOD FAMILY PRACTICE,Cleveland,44102,Yes,No,No
+97.89,A,"5051 Anderson Pl, Cincinnati, Ohio, 45227",Madisonville,Cincinnati Metro Area,-84.39892914,39.16294382,Hamilton County,OH,361023,NEIGHBORHOOD HEALTH CARE INC,Cincinnati,45227,Yes,No,No
+97.93,A,"1616 Harrison Ave, Cincinnati, Ohio, 45214",South Fairmount,Cincinnati Metro Area,-84.54928177,39.12656112,Hamilton County,OH,361916,"NEIGHBORHOOD HEALTH CARE, INC",Cincinnati,45214,Yes,No,No
+98.03,A,"3129 Spring Grove Ave, Cincinnati, Ohio, 45225",Camp Washington,Cincinnati Metro Area,-84.54179641,39.13860586,Hamilton County,OH,361917,"NEIGHBORHOOD HEALTH CARE, INC",Cincinnati,45225,Yes,No,No
+100,PP, , , ,-82.6566735,37.4627384,FLOYD COUNTY,KY,181819,MUD CREEK CLINIC BIG SANDY HEALTH CARE,Grethel,41631,Yes,No,Yes
+97.88,A,"406 S 15th St, Coshocton, Ohio, 43812", , ,-81.8471565,40.27127316,Coshocton County,OH,361047,MUSKINGUM VALLEY HEALTH CENTER,Coshocton,43812,Yes,No,Yes
+94.78,A,"1993 State Route 59, Kent, Ohio, 44240", , ,-81.32197544,41.15562243,Portage County,OH,361939,PORTAGE COUNTY COMMUNITY HEALTH CENTER,Kent,44240,Yes,No,No
+84.19,A,"Whitman Rd, Munfordville, Kentucky, 42765", , ,-85.87990832,37.26820876,Hart County,KY,181920,MUNFORDVILLE FAMILY MEDICAL,Munfordville,42765,Yes,No,Yes
+98.13,A,"456 S Main St, Andover, Ohio, 44003", , ,-80.57130674,41.60086264,Ashtabula County,OH,361914,ANDOVER PRIMARY CARE,Andover,44003,Yes,No,Yes
+97.78,A,"2845 Bell St, Zanesville, Ohio, 43701", , ,-82.01294819,39.97276265,Muskingum County,OH,361077,MUSKINGUM VALLEY HEALTH CENTERS,Zanesville,43701,Yes,No,Yes
+97.97,A,"5945 Montgomery Rd, Cincinnati, Ohio, 45213",Pleasant Ridge,Cincinnati Metro Area,-84.43220316,39.1806991,Hamilton County,OH,361020,NEIGHBORHOOD HEALTH CARE INC,Cincinnati,45213,Yes,No,No
+97.78,A,"1515 Carll St, Cincinnati, Ohio, 45225",North Fairmount,Cincinnati Metro Area,-84.54620078,39.13442967,Hamilton County,OH,361915,"NEIGHBORHOOD HEALTH CARE, INC",Cincinnati,45225,Yes,No,No
+90.4,A,"Airport Rd, Woodsfield, Ohio, 43793", , ,-81.13021309,39.765215,Monroe County,OH,361829,MONROE COUNTY CLINIC,Woodsfield,43793,No,Yes,Yes
+98.07,A,"2358 Professor Ave, Cleveland, Ohio, 44113",Tremont, ,-81.68537455,41.48019701,Cuyahoga County,OH,361946,NEIGHBORHOOD FAMILY PRACTICE,Cleveland,44113,Yes,No,No
+97.5,A,"106 N Main St, New Carlisle, Ohio, 45344", , ,-84.02492641,39.93752568,Clark County,OH,361927,NEW CARLISLE COMMUNITY HEALTH CENTR,New Carlisle,45344,Yes,No,No
+97.55,A,"235 W High St, Mount Gilead, Ohio, 43338", , ,-82.83684108,40.5493565,Morrow County,OH,361092,MORROW FAMILY HEALTH CENTER,Mount Gilead,43338,Yes,No,Yes
+97.82,A,"716 Adair Ave, Zanesville, Ohio, 43701", , ,-82.01228225,39.9531845,Muskingum County,OH,361926,MUSKINGUM VALLEY HEALTH CENTERS,Zanesville,43701,Yes,No,Yes
+97.92,A,"250 N Fair Ave, Hamilton, Ohio, 45011", ,Cincinnati Metro Area,-84.54178067,39.39614175,Butler County,OH,361101,PRIMARY HEALTH SOLUTIONS,Hamilton,45011,Yes,No,No
+98.63,A,"340 S Broadway St, Akron, Ohio, 44308",Downtown Akron, ,-81.51958838,41.07578459,Summit County,OH,361062,AXESSPOINTE PORTAGE PATH,Akron,44308,Yes,No,No
+98.26,A,"1020 Varland Ave, Toledo, Ohio, 43605",East Toledo, ,-83.51348366,41.63122048,Lucas County,OH,361061,NAVARRE PARK FAMILY CARE CENTER,Toledo,43605,Yes,No,No
+97.74,A,"119 W Main St, Quaker City, Ohio, 43773", , ,-81.30005666,39.9711551,Guernsey County,OH,361033,QUAKER CITY FAMILY HEALTH CENTER,Quaker City,43773,Yes,No,Yes
+97.86,A,"4531 Reading Rd, Cincinnati, Ohio, 45229",Paddock Hills, ,-84.4704544,39.16716721,Hamilton County,OH,361862,BOND HILL FAMILY PRACTICE*CLOSED*,Cincinnati,45229,No,No,No
+98.03,A,"3917 Spring Grove Ave, Cincinnati, Ohio, 45223",Northside,Cincinnati Metro Area,-84.54044367,39.15726344,Hamilton County,OH,361956,NORTHSIDE HEALTH CENTER,Cincinnati,45223,Yes,No,No
+81.43,A,"Bowling Green Est, Bowling Green, Ohio, 43402", , ,-83.65446571,41.38822772,Wood County,OH,361842,BOWLING GREEN MIGRANT CLINIC,Bowling Green,43402,Yes,No,Yes
+97.7,A,"1411 Fox Creek Rd, Lawrenceburg, Kentucky, 40342", , ,-84.92420388,38.01558854,Anderson County,KY,181000,ROBERT B TURNER ELEMENTARY HEALTHY KIDS CLINIC,Lawrenceburg,40342,Yes,No,Yes
+87.08,M,"11 Booneville Hts Rd, Booneville, Kentucky, 41314", , ,-83.6632879,37.4725268,OWSLEY COUNTY,KY,181832,OWSLEY COUNTY MEDICAL CLINIC,Booneville,41314,Yes,No,Yes
+97.5,A,"236 W 6th St, East Liverpool, Ohio, 43920", , ,-80.58240092,40.62111832,Columbiana County,OH,361106,CAA HEALTH & BEHAVIORAL HEALTH AT EAST,East Liverpool,43920,Yes,No,Yes
+98.37,A,"1950 Tuscarawas St E, Canton, Ohio, 44707", , ,-81.35215642,40.79384095,Stark County,OH,361913,CANTON COMMUNITY CLINIC,Canton,44707,Yes,No,No
+98.09,M,"1841 E Ky 70, Liberty, Kentucky, 42539", , ,-84.9282422,37.31842857,CASEY COUNTY,KY,181943,CASEY COUNTY HIGH HEALTHY KIDS CLINIC,Liberty,42539,Yes,No,Yes
+98,A,"1180 E Main St, Columbus, Ohio, 43205",Olde Town East, ,-82.96782266,39.9578375,Franklin County,OH,361868,PRIMARYONE HEALTH,Columbus,43205,No,No,No
+91.38,A,"10777 County Road 107, Proctorville, Ohio, 45669", , ,-82.32208376,38.46339772,Lawrence County,OH,361012,PROCTORVILLE HEALTH CARE CENTER,Proctorville,45669,Yes,No,No
+97.74,A,"234 Amy Ave, Louisville, Kentucky, 40212",Shawnee, ,-85.81329813,38.26034202,Jefferson County,KY,181922,SHAWNEE CHRISTIAN HEALTH  CENTER INC,Louisville,40212,No,No,No
+97.45,A,"1250 N Lake Dr, Prestonsburg, Kentucky, 41653", , ,-82.77788024,37.68304252,Floyd County,KY,181828,SHELBY VALLEY MEDICAL CLINIC,Prestonsburg,41653,Yes,No,Yes
+97.74,A,"38882 Mentor Ave, Willoughby, Ohio, 44094", , ,-81.38860059,41.64687409,Lake County,OH,361128,SIGNATURE HEALTH INC,Willoughby,44094,Yes,No,No
+98.11,A,"333 Conover Dr, Franklin, Ohio, 45005", , ,-84.27565796,39.55930116,Warren County,OH,361055,CENTERPOINT HEALTH,Franklin,45005,Yes,No,No
+98.36,A,"15095 Fort Campbell Blvd, Oak Grove, Kentucky, 42262", , ,-87.44249751,36.66220037,Christian County,KY,181939,"PENNYROYAL HEALTHCARE SERVICES, INC",Oak Grove,42262,Yes,No,Yes
+98.1,A,"23 Willow Dr, Auxier, Kentucky, 41602", , ,-82.75505167,37.72995901,Floyd County,KY,181837,PHYSICIANS FOR WOMEN,Auxier,41602,No,No,Yes
+92.5,A,"7777 US Highway 23, Piketon, Ohio, 45661", , ,-83.01065368,39.06738134,Pike County,OH,361846,PIKETON FAMILY HEALTH & DENTAL CENTER,Piketon,45661,No,No,Yes
+97.96,A,"13301 Miles Ave, Cleveland, Ohio, 44105",Corlett, ,-81.58963444,41.44545748,Cuyahoga County,OH,361832,SOUTHEAST CENTER,Cleveland,44105,Yes,No,No
+98.3,A,"25 Thorpe Dr, Dayton, Ohio, 45420",Belmont, ,-84.15775839,39.73236025,Montgomery County,OH,361019,SOUTHVIEW HEALTH CENTER,Dayton,45420,Yes,No,No
+98.46,A,"1 Spartan Way, Lima, Ohio, 45801", , ,-84.09759355,40.74130857,Allen County,OH,361058,SPARTAN HEALTH CENTER,Lima,45801,Yes,No,No
+97.74,A,"2136 W 8th St, Cincinnati, Ohio, 45204",Lower Price Hill,Cincinnati Metro Area,-84.55265077,39.10528341,Hamilton County,OH,361816,PRICE HILL HEALTH CENTER,Cincinnati,45204,Yes,No,No
+97.96,A,"211 Donald Dr, Fairfield, Ohio, 45014", ,Cincinnati Metro Area,-84.53100828,39.34259692,Butler County,OH,361100,PRIMARY HEALTH SOLUTIONS,Fairfield,45014,Yes,No,No
+97.73,A,"209 N Maysville St, Mount Sterling, Kentucky, 40353", , ,-83.94332204,38.06005898,Montgomery County,KY,181903,"STERLING HEALTH SOLUTIONS, INC",Mount Sterling,40353,Yes,No,Yes
+97.79,A,"3570 Indian Mound Dr, Mount Sterling, Kentucky, 40353", , ,-83.93870659,38.04109723,Montgomery County,KY,181017,"STERLING HEALTH SOLUTIONS, INC",Mount Sterling,40353,Yes,No,Yes
+98.25,A,"3433 Agler Rd, Columbus, Ohio, 43219",Cumberland Ridge, ,-82.91946417,40.02065157,Franklin County,OH,361875,PRIMARYONE HEALTH,Columbus,43219,No,No,No
+98.43,A,"169 Middle School Rd, Albany, Kentucky, 42602", , ,-85.13813896,36.71725252,Clinton County,KY,181982,CLINTON COUNTY MIDDLE HEALTHY KIDS CLINIC,Albany,42602,Yes,No,Yes
+98.4,A,"606 Burkesville Rd, Albany, Kentucky, 42602", , ,-85.14309464,36.69767219,Clinton County,KY,181868,CLINTON FAMILY MEDICAL CENTER,Albany,42602,Yes,No,Yes
+98.1,A,"218 Stern Rd, Seaman, Ohio, 45679", , ,-83.56448248,38.92919249,Adams County,OH,361812,SEAMAN HEALTH CENTER,Seaman,45679,Yes,No,Yes
+97.66,A,"251 S Pine St, Pineville, Kentucky, 40977", , ,-83.69607572,36.76001061,Bell County,KY,181937,PINEVILLE MEDICAL CLINIC,Pineville,40977,Yes,No,Yes
+97.5,A,"601 Selma Rd, Springfield, Ohio, 45505", , ,-83.80009137,39.91404391,Clark County,OH,361117,ROCKING HORSE CENTER KEIFER,Springfield,45505,Yes,No,No
+98,A,"407 N James Rd, Columbus, Ohio, 43219",Broadleigh, ,-82.91237078,39.98012851,Franklin County,OH,361878,CNHC COLUMBUS NORTHEAST HEALTH CTR INC,Columbus,43219,No,No,No
+97.92,A,"4726 Main Ave, Ashtabula, Ohio, 44004", , ,-80.78267912,41.86407223,Ashtabula County,OH,361131,SIGNATURE HEALTH INC,Ashtabula,44004,Yes,No,Yes
+97.95,A,"600 N Pickaway St, Circleville, Ohio, 43113", , ,-82.93751635,39.61097063,Pickaway County,OH,361044,COLUMBUS NEIGHBORHOOD HEALTH CENTER CIRCLEVILLE,Circleville,43113,Yes,No,Yes
+98.33,A,"1791 Alum Creek Dr, Columbus, Ohio, 43207",Milbrook, ,-82.94023769,39.93027302,Franklin County,OH,361025,COLUMBUS NEIGHBORHOOD HEALTH CENTER INC,Columbus,43207,Yes,No,No
+98.33,A,"10 N Locust St, Oxford, Ohio, 45056", , ,-84.74928639,39.51087496,Butler County,OH,361099,PRIMARY HEALTH SOLUTIONS,Oxford,45056,Yes,No,Yes
+97.32,M,"953 S South St, Wilmington, Ohio, 45177", , ,-83.83092165,39.43263967,CLINTON COUNTY,OH,361032,PRIMARY HEALTH SOLUTIONS,Wilmington,45177,Yes,No,Yes
+98.4,A,"7880 Lincole Pl, Lisbon, Ohio, 44432", , ,-80.77201685,40.78630519,Columbiana County,OH,361854,COMMUNITY ACTION AGCY OF COLUMBIANA CO,Lisbon,44432,Yes,No,Yes
+90.05,A,"127 Russell Dr, Russell Springs, Kentucky, 42642", , ,-85.07329374,37.0534286,Russell County,KY,181954,RUSSELL COUNTY MIDDLE HEALTHY KIDS CLINIC,Russell Springs,42642,Yes,No,Yes
+98.38,A,"441 E 8th St, Lima, Ohio, 45804", , ,-84.09904208,40.71183247,Allen County,OH,361892,SALUD COMMUNITY CLINIC,Lima,45804,Yes,No,No
+98.14,A,"98 E Perry St, Tiffin, Ohio, 44883", , ,-83.17606082,41.1158496,Seneca County,OH,361844,TIFFIN MIGRANT CLINIC,Tiffin,44883,Yes,No,Yes
+98.22,A,"635 N Erie St, Toledo, Ohio, 43604",Center City, ,-83.53352286,41.65741574,Lucas County,OH,361087,TOLEDO - LUCAS COUNTY HEALTH CENTER,Toledo,43604,Yes,No,No
+98.06,A,"440 Hopkinsville St, Greenville, Kentucky, 42345", , ,-87.18993112,37.19680459,Muhlenberg County,KY,181835,"COMMUNITY HEALTH CENTERS OF W KY, INC",Greenville,42345,No,No,Yes
+98.04,A,"502 Van Buren St, Fostoria, Ohio, 44830", , ,-83.42313244,41.16379894,Hancock County,OH,361069,COMMUNITY HEALTH SERVICES FOSTORIA,Fostoria,44830,Yes,No,Yes
+98,A,"59 Cowtown Rd, Hindman, Kentucky, 41822", , ,-82.9875456,37.33019076,Knott County,KY,181875,UK NORTH FORK VALLEY JUNE BUCHANAN CLINIC,Hindman,41822,Yes,No,Yes
+97.72,A,"651 S Limestone St, Springfield, Ohio, 45505", , ,-83.80923896,39.91668385,Clark County,OH,361947,ROCKING HORSE CENTER,Springfield,45505,Yes,No,No
+97.54,A,"2166 S Highway 127, Russell Springs, Kentucky, 42642", , ,-85.07562941,37.03520907,Russell County,KY,181945,RUSSELL HIGH HEALTHY KIDS CLINIC,Russell Springs,42642,Yes,No,Yes
+98.18,A,"31 E Main St, Shelby, Ohio, 44875", , ,-82.6585425,40.88139046,Richland County,OH,361103,SHELBY HEALTH AND WELLNESS CENTER,Shelby,44875,Yes,No,No
+97.5,A,"1409 S Highway 76, Russell Springs, Kentucky, 42642", , ,-84.98843107,37.07043595,Russell County,KY,181980,SALEM HEALTHY KIDS CLINIC,Russell Springs,42642,Yes,No,Yes
+97.78,A,"5 E Liberty St, Cincinnati, Ohio, 45202",Over-the-Rhine,Cincinnati Metro Area,-84.51565253,39.11281451,Hamilton County,OH,361880,CROSSROAD HEALTH CENTER,Cincinnati,45202,No,No,No
+98.14,A,"732 South Ave, Toledo, Ohio, 43609",Southside, ,-83.55733217,41.63085352,Lucas County,OH,361838,SOUTH SIDE COMMUNITY HEALTH CENTER,Toledo,43609,Yes,No,No
+98.37,A,"171 S Washington St, Tiffin, Ohio, 44883", , ,-83.17622145,41.11280533,Seneca County,OH,361085,TIFFIN COMMUNITY HEALTH CARE,Tiffin,44883,Yes,No,Yes
+98.18,A,"76 Ashwood Dr, Tiffin, Ohio, 44883", , ,-83.20140363,41.11430559,Seneca County,OH,361090,TIFFIN COMMUNITY HEALTH CENTERS FIRELANDS,Tiffin,44883,Yes,No,Yes
+98.3,A,"1323 W 3rd St, Dayton, Ohio, 45402",Wolf Creek, ,-84.21788497,39.75528031,Montgomery County,OH,361941,DR CHARLES R DREW HEALTH CENTER,Dayton,45402,Yes,No,No
+97.92,A,"124 N Linden Rd, Mansfield, Ohio, 44906", , ,-82.54416578,40.76278577,Richland County,OH,361114,TYGER CARE,Mansfield,44906,Yes,No,No
+97.96,A,"924 E Main St, Columbus, Ohio, 43205",Olde Town East, ,-82.97487939,39.95797947,Franklin County,OH,361119,SOUTHEAST INC,Columbus,43205,Yes,No,No
+97.8,A,"19 Medical Loop, Whitley City, Kentucky, 42653", , ,-84.47109759,36.73426752,McCreary County,KY,181936,WHITLEY FAMILY MEDICAL,Whitley City,42653,No,No,Yes
+97.89,A,"4357 Ferguson Dr, Cincinnati, Ohio, 45245", ,Cincinnati Metro Area,-84.28327239,39.09337952,Clermont County,OH,361867,EASTGATE PEDIATRICS,Cincinnati,45245,No,No,No
+88,A,"44875, Tiro, Ohio", , ,-82.77303,40.908845,Crawford County,OH,361097,SHELBY OB/GYN,Shelby,44875,Yes,No,Yes
+98.11,A,"2330 Concrete Rd, Carlisle, Kentucky, 40311", , ,-84.05944594,38.31468691,Nicholas County,KY,181013,STERLING HEALTH SOLUTIONS INC,Carlisle,40311,Yes,No,Yes
+97.66,A,"15 Sterling Ave, Mount Sterling, Kentucky, 40353", , ,-83.94672711,38.0619229,Montgomery County,KY,181902,"STERLING HEALTH SOLUTIONS, INC",Mount Sterling,40353,Yes,No,Yes
+97.54,A,"52 Reasor Ave, Taylorsville, Kentucky, 40071", , ,-85.34535902,38.03421745,Spencer County,KY,181825,SPENCER COUNTY RURAL HEALTH CLINIC,Taylorsville,40071,No,Yes,No
+98.09,A,"120 Progress Way, Owenton, Kentucky, 40359", , ,-84.84376054,38.55103246,Owen County,KY,181006,WOMENS CARE OF THE BLUEGRASS/FAMILY CARE OF THE BG,Owenton,40359,Yes,No,Yes
+88.34,A,"142 Depot Dr, South Shore, Kentucky, 41175", , ,-82.960893,38.72119338,Greenup County,KY,181884,SOUTH SHORE FAMILY HEALTH CENTER,South Shore,41175,Yes,No,Yes
+97.92,A,"16 W Long St, Columbus, Ohio, 43215",Downtown Columbus, ,-83.00140643,39.96494543,Franklin County,OH,361984,SOUTHEAST INC,Columbus,43215,Yes,No,No
+98.37,A,"243 S Main St, Cadiz, Ohio, 43907", , ,-80.99902412,40.27119754,Harrison County,OH,361125,SOUTHEAST INC,Cadiz,43907,Yes,No,Yes
+97.76,A,"809 Indian Mound Dr, Mount Sterling, Kentucky, 40353", , ,-83.95580512,38.06171031,Montgomery County,KY,181015,"STERLING HEALTH SOLUTIONS, INC",Mount Sterling,40353,Yes,No,Yes
+97.65,A,"1080 S Main St, Monticello, Kentucky, 42633", , ,-84.86607109,36.82445419,Wayne County,KY,181960,WALKER EARLY LEARNING CENTER HEALTHY KIDS CLINIC,Monticello,42633,Yes,No,Yes
+98.18,A,"486 W Perry St, Tiffin, Ohio, 44883", , ,-83.19743618,41.11392338,Seneca County,OH,361083,TIFFIN COMMUNITY HEALTH CENTER,Tiffin,44883,Yes,No,Yes
+98.14,A,"1055 W Market St, #H, Baltimore, Ohio, 43105", , ,-82.61405003,39.84556453,Fairfield County,OH,361986,FAIRFIELD COMMUNITY HEALTH CENTER,Baltimore,43105,Yes,No,No
+97.63,A,"811 Fairview Ave, Bowling Green, Kentucky, 42101", , ,-86.43381957,36.99189937,Warren County,KY,181889,FAIRVIEW COMMUNITY HEALTH CENTER,Bowling Green,42101,Yes,No,No
+98,A,"260 S Main St, Oberlin, Ohio, 44074", , ,-82.21770651,41.28411684,Lorain County,OH,361096,FAMILY CARE CENTER,Oberlin,44074,Yes,No,Yes
+98.24,A,"330 Oak Terrace Blvd, Holland, Ohio, 43528", , ,-83.77428028,41.63179208,Lucas County,OH,361088,TOLEDO - LUCAS COUNTY HEALTH CENTER WESTERN,Holland,43528,Yes,No,No
+97.74,A,"1180 Glensboro Rd, Lawrenceburg, Kentucky, 40342", , ,-84.90681315,38.03444222,Anderson County,KY,181961,FAMILY CARE OF THE BLUEGRASS--ANDERSON,Lawrenceburg,40342,Yes,No,Yes
+97.89,A,"1101 Jackson St, Greenville, Ohio, 45331", , ,-84.62752754,40.085937,Darke County,OH,361107,FAMILY HEALTH,Greenville,45331,Yes,No,Yes
+98.3,A,"1052 S Washington St, Van Wert, Ohio, 45891", , ,-84.58454226,40.85521183,Van Wert County,OH,361924,"FAMILY HEALTH CARE OF NORTHWEST OHIO, INC",Van Wert,45891,Yes,No,Yes
+97.8,A,"600 W 3rd St, Mansfield, Ohio, 44906", , ,-82.53732975,40.76038752,Richland County,OH,361877,THIRD STREET COMMUNITY CLINIC,Mansfield,44906,No,No,No
+97.79,A,"6601 Indian Mound Rd, Mount Sterling, Kentucky, 40353", , ,-83.91375565,38.06214444,Montgomery County,KY,181016,"STERLING HEALTH SOLUTIONS, INC",Mount Sterling,40353,Yes,No,Yes
+98,A,"270 Sterkel Blvd, Mansfield, Ohio, 44907", , ,-82.52712513,40.73901004,Richland County,OH,361049,THIRD STREET PEDIATRICS,Mansfield,44907,Yes,No,No
+98.03,A,"9702 Stonestreet Rd, Louisville, Kentucky, 40272",Valley Station, ,-85.83883366,38.11450917,Jefferson County,KY,181838,FAMILY HEALTH CENTER-DIXIE,Louisville,40272,No,No,No
+98.18,A,"631 Silver St, Kenton, Ohio, 43326", , ,-83.59958489,40.66216004,Hardin County,OH,361121,WILDCAT ELEMENTARY HEALTH CENTER,Kenton,43326,Yes,No,Yes
+98.33,A,"1908 Glen Springs Dr, Fremont, Ohio, 43420", , ,-83.13578396,41.33870811,Sandusky County,OH,361843,WILLIAM PADAMADAN M D,Fremont,43420,Yes,No,Yes
+97.82,A,"360 Amsden Ave, Versailles, Kentucky, 40383", , ,-84.72438844,38.05533422,Woodford County,KY,181009,WOMEN'S CARE BLUEGRASS/FAMILY CARE BLUEGRAS,Versailles,40383,Yes,No,Yes
+97.59,A,"200 Luray Dr, Steubenville, Ohio, 43953", , ,-80.70445991,40.37983227,Jefferson County,OH,361015,FAMILY MEDICAL CARE COMMUNITY HEALTH CENTER,Wintersville,43953,Yes,No,No
+97.83,A,"108 12th St, Clay City, Kentucky, 40312", , ,-83.91560933,37.85386883,Powell County,KY,181987,FOOTHILLS HEALTH AND WELLNESS CENTER,Clay City,40312,Yes,No,Yes
+98.13,M,"2834 S US-127, Liberty, Kentucky, 42539", , ,-84.92834967,37.31863374,CASEY COUNTY,KY,181983,WALNUT HILL ELEMENTARY HEALTHY KIDS CLINIC,Liberty,42539,Yes,No,Yes
+88,A,"41701, Kentucky", , ,-83.11114,37.356,Knott County,KY,181859,UK NORTH FORK VALLEY COMMUNITY HEALTH CENTER,Hazard,41701,Yes,No,Yes
+98.18,A,"401 Highland Park Dr, Richmond, Kentucky, 40475", , ,-84.265612,37.74044655,Madison County,KY,181851,WHITE HOUSE CLINIC,Richmond,40475,Yes,No,Yes
+98.37,A,"104 Legacy Dr, Berea, Kentucky, 40403", , ,-84.31717461,37.6049855,Madison County,KY,181847,WHITEHOUSE CLINIC-BEREA,Berea,40403,Yes,No,Yes
+98.4,A,"1230 Palmyra Rd SW, Warren, Ohio, 44485", , ,-80.8345389,41.22705084,Trumbull County,OH,361881,WARREN WEST COMMUNITY HEALTH CARE,Warren,44485,Yes,No,No
+98.14,A,"2131 Park Ave W, Mansfield, Ohio, 44906", , ,-82.59181136,40.7597115,Richland County,OH,361030,HAWKINS MEDICAL CENTER,Mansfield,44906,Yes,No,No
+97.96,A,"333 S 3rd St, Danville, Kentucky, 40422", , ,-84.77283843,37.6424024,Boyle County,KY,181966,WOMEN'S CARE OF THE COMMONWEALTH,Danville,40422,Yes,No,Yes
+97.93,A,"1350 5th Ave, Youngstown, Ohio, 44504",Wick Park, ,-80.65135,41.11822864,Mahoning County,OH,361848,YOUNGSTOWN COMMUNITY HEALTH CENTER,Youngstown,44504,No,No,No
+98.37,A,"1010 Main St S, Mc Kee, Kentucky, 40447", , ,-83.97937619,37.43234179,Jackson County,KY,181822,HEALTH HELP WHITE HOUSE CLINIC,Mc Kee,40447,No,No,Yes
+98.39,A,"1231 Columbus Ave, Lebanon, Ohio, 45036", ,Cincinnati Metro Area,-84.18269028,39.45152037,Warren County,OH,361038,HEALTHSOURCE LEBANON,Lebanon,45036,Yes,No,No
+98.16,A,"2276 W State St, Fremont, Ohio, 43420", , ,-83.14329403,41.35972777,Sandusky County,OH,361976,WESTSIDE PEDIATRICS,Fremont,43420,Yes,No,Yes
+98,A,"321 S 3rd St, Danville, Kentucky, 40422", , ,-84.77281583,37.64283265,Boyle County,KY,181008,WOMENS CARE OF THE COMMONWEALTH,Danville,40422,Yes,No,Yes
+0,M, , , ,-82.4083465,39.5424801,Hocking County,OH,361118,HOPEWELL HEALTH CENTERS,Logan,43138,Yes,No,Yes
+97.88,A,"25716 Wilson St, Coolville, Ohio, 45723", , ,-81.80712539,39.21718493,Athens County,OH,361041,HOPEWELL HEALTH CENTERS INC,Coolville,45723,Yes,No,Yes
+98.04,A,"1160 W Broad St, Columbus, Ohio, 43222",Franklinton, ,-83.03152746,39.95850232,Franklin County,OH,361011,LOWER LIGHTS CHRISTIAN HEALTH CENTER INC,Columbus,43222,Yes,No,No
+98.1,A,"409 9th St SW, Canton, Ohio, 44707", , ,-81.37987237,40.79239476,Stark County,OH,361034,MAHONING ROAD FAMILY HEALTH CENTER,Canton,44707,Yes,No,No
+97.78,A,"365 Hazard Rd, Whitesburg, Kentucky, 41858", , ,-82.8308686,37.12062685,Letcher County,KY,181829,MOUNTAIN COMPREHENSIVE HEALTH CORP,Whitesburg,41858,No,No,Yes
+97.96,A,"6209 Storer Ave, Cleveland, Ohio, 44102",Stockyards, ,-81.72864056,41.46229247,Cuyahoga County,OH,361861,NEIGHBORHOOD FAMILY PRACTICE,Cleveland,44102,No,No,No
+97.86,A,"3009 Burnet Ave, Cincinnati, Ohio, 45219",Corryville,Cincinnati Metro Area,-84.50117619,39.1341854,Hamilton County,OH,361918,"NEIGHBORHOOD HEALTH CARE, INC",Cincinnati,45219,Yes,No,No
+97.82,A,"2237 Hikes Ln, Louisville, Kentucky, 40218",Bon Air, ,-85.65776094,38.20055507,Jefferson County,KY,181823,NEWBURG PRIMARY CARE CENTER,Louisville,40218,Yes,No,No
+98.2,A,"741 Central Ave, Newport, Kentucky, 41071", ,Cincinnati Metro Area,-84.49575704,39.0872969,Campbell County,KY,181820,NORTHERN KENTUCKY FAMILY HEALTH CTRS,Newport,41071,Yes,No,No
+97.78,A,"1102 S Virginia St, Hopkinsville, Kentucky, 42240", , ,-87.48874352,36.86384047,Christian County,KY,181931,"PENNYROYAL HEALTHCARE SERVICES, INC",Hopkinsville,42240,Not Applicable,Not Applicable,Yes
+97.95,M,"295 Main St, Calhoun, Kentucky, 42327", , ,-87.39607354,37.61554731,MCLEAN COUNTY,KY,181879,"REGIONAL HEALTH CARE AFFILIATES, INC",Calhoun,42327,No,No,No
+97.68,A,"120 W Mulberry St, Springfield, Ohio, 45506", , ,-83.81375233,39.92003645,Clark County,OH,361113,ROCKING HORSE CENTER - MULBERRY TERRACE,Springfield,45506,Yes,No,No
+97.38,A,"124 Dowell Rd, Russell Springs, Kentucky, 42642", , ,-85.06686751,37.05731253,Russell County,KY,181877,RUSSELL FAMILY MEDICAL CENTER,Russell Springs,42642,Yes,No,Yes
+94.86,A,Russell Springs Elementary School, , ,-85.06628,37.08785,Russell County,KY,181955,RUSSELL SPRINGS ELEMENTARY HEALTHY KIDS CLINIC,Russell Springs,42642,Yes,No,Yes
+96.35,A,"68353 Bannock Rd, Saint Clairsville, Ohio, 43950", , ,-80.96855016,40.07694622,Belmont County,OH,361078,SOUTHEAST INC,Saint Clairsville,43950,Yes,No,No
+98,A,"524 W Broad St, Columbus, Ohio, 43215",Franklinton, ,-83.01462721,39.96051434,Franklin County,OH,361060,SOUTHEAST INC,Columbus,43215,Yes,No,No
+0,M, , , ,-84.8376682,38.5350186,Owen County,KY,181978,TRIAD HEALTH SYSTEMS INC,Owenton,40359,Yes,No,Yes
+97.82,A,"2 Kenny Davis Blvd, Monticello, Kentucky, 42633", , ,-84.86587185,36.83169453,Wayne County,KY,181981,WAYNE COUNTY HIGH HEALTHY KIDS CLINIC,Monticello,42633,Yes,No,Yes
+84.91,A,"Estill St, Berea, Kentucky, 40403", , ,-84.28057094,37.58142825,Madison County,KY,181821,WHITE HOUSE CLINIC BEREA,Berea,40403,No,No,Yes
+98.3,A,"185 Newcomb Ave, Mount Vernon, Kentucky, 40456", , ,-84.33604946,37.35753646,Rockcastle County,KY,181888,WHITE HOUSE CLINICS,Climax,40456,Yes,No,Yes
+97.78,A,"217 S 3rd St, Danville, Kentucky, 40422", , ,-84.77269691,37.64377745,Boyle County,KY,181003,WOMEN'S CARE OF THE COMMONWEALTH,Danville,40422,No,No,Yes
+98.33,A,"279 Kings Daughters Dr, Frankfort, Kentucky, 40601", , ,-84.90494217,38.16049413,Franklin County,KY,181907,WOMENS CARE OF THE BLUEGRASS,Frankfort,40601,Yes,No,Yes
+98.25,A,"322 General John Adair Dr, Columbia, Kentucky, 42728", , ,-85.32025534,37.10675496,Adair County,KY,181956,ADAIR COUNTY MIDDLE HEALTHY KIDS CLINIC,Columbia,42728,Yes,No,Yes
+96.86,M,"3101 Burnet Ave, Cincinnati, Ohio, 45229",Corryville, ,-84.50092526,39.13667114,HAMILTON COUNTY,OH,361957,AMBROSE H CLEMENT HEALTH CENTER,Cincinnati,45229,Yes,No,No
+97.86,A,"5818 Madison Rd, Cincinnati, Ohio, 45227",Madisonville,Cincinnati Metro Area,-84.3937021,39.16070045,Hamilton County,OH,361954,BRAXTON CANN MEMORIAL MEDICAL CENTER,Cincinnati,45227,Yes,No,No
+98.37,A,"228 S Main St, Bryan, Ohio, 43506", , ,-84.55104913,41.4722155,Williams County,OH,361016,BRYAN COMMUNITY HEALTH CENTER,Bryan,43506,Yes,No,Yes
+98.07,A,"1736 Superior Ave E, Cleveland, Ohio, 44114",Playhouse Square, ,-81.68068957,41.50622925,Cuyahoga County,OH,361900,CARE ALLIANCE,Cleveland,44114,Yes,No,No
+98.1,A,"1795 W 25th St, Cleveland, Ohio, 44113",Ohio City, ,-81.70540546,41.48675445,Cuyahoga County,OH,361863,CARE ALLIANCE,Cleveland,44113,No,No,No
+98.08,A,"240 Parsons Ave, Columbus, Ohio, 43215",Olde Town East, ,-82.98189781,39.95936336,Franklin County,OH,361027,COLUMBUS NEIGHBORHOOD HEALTH CENTER INC,Columbus,43215,Yes,No,No
+98.06,A,"504 Hopkinsville St, Greenville, Kentucky, 42345", , ,-87.19110429,37.19703932,Muhlenberg County,KY,181930,"COMMUNITY HEALTH CENTERS OF WESTERN KENTUCKY, INC",Greenville,42345,Yes,No,Yes
+97.89,A,"4968 Glenway Ave, Cincinnati, Ohio, 45238",West Price Hill,Cincinnati Metro Area,-84.60066532,39.1206245,Hamilton County,OH,361928,CONSUMER WELLNESS CENTER AT GLENWAY,Cincinnati,45238,Yes,No,No
+98.26,A,"1250 Western Ave, Toledo, Ohio, 43609",Southside, ,-83.56997979,41.63474252,Lucas County,OH,361908,CORDELIA MARTIN,Toledo,43609,Yes,No,No
+97.72,A,"908 N Main St, Burkesville, Kentucky, 42717", , ,-85.36410861,36.79968861,Cumberland County,KY,181952,CUMBERLAND COUNTY MIDDLE HEALTHY KIDS CLINIC,Burkesville,42717,Yes,No,Yes
+97.92,A,"420 Superior St, Sandusky, Ohio, 44870", , ,-82.74387697,41.44861806,Erie County,OH,361972,ERIE COUNTY GENERAL HEALTH DISTRICT,Sandusky,44870,Yes,No,Yes
+97.78,A,"755 W GL Smith St, Morgantown, Kentucky, 42261", , ,-86.69266734,37.23467242,Butler County,KY,181880,FAIRVIEW COMMUNITY HEALTH CENTER,Morgantown,42261,Yes,No,Yes
+97.84,A,"593 E Main St, Frankfort, Kentucky, 40601", , ,-84.84944483,38.20249024,Franklin County,KY,181906,FAMILY CARE OF THE BLUEGRASS,Frankfort,40601,Yes,No,Yes
+97.97,A,"4805 Southside Dr, Louisville, Kentucky, 40214",Southside, ,-85.76470906,38.17855825,Jefferson County,KY,181862,FAMILY HEALTH CENTER-AMERICANA,Louisville,40214,Yes,No,No
+98.16,A,"1220 E State St, Fremont, Ohio, 43420", , ,-83.09602357,41.3427699,Sandusky County,OH,361975,FREMONT FAMILY PRACTICE,Fremont,43420,Yes,No,Yes
+82.44,A,"Manchester Sq, Manchester, Kentucky, 40962", , ,-83.7719646,37.14006945,Clay County,KY,181873,GRACE COMMUNITY HEALTH CENTER INC,Manchester,40962,No,No,Yes
+98.1,A,"1600 Breckenridge St, Owensboro, Kentucky, 42303", , ,-87.09822543,37.76136402,Daviess County,KY,181962,HEALTH FIRST COMMUNITY HEALTH CENTER,Owensboro,42303,Yes,No,No
+98.23,A,"472 Klutey Park Plaza Dr, Henderson, Kentucky, 42420", , ,-87.56714134,37.83607265,Henderson County,KY,181915,HEALTH FIRST COMMUNITY HEALTH CENTER,Henderson,42420,Yes,No,No
+97.92,A,"2433 Regency Rd, Lexington, Kentucky, 40503",Deerfield, ,-84.52513338,38.00363968,Fayette County,KY,181909,"HEALTHFIRST BLUEGRASS, INC",Lexington,40503,Yes,No,No
+91.18,A,"8200 State Route 366, Russells Point, Ohio, 43348", , ,-83.87163166,40.46847081,Logan County,OH,361046,INDIAN LAKE COMMUNITY HEALTH CENTER,Russells Point,43348,Yes,No,Yes
+98.24,A,"1408 Campbell Dr, Ironton, Ohio, 45638", , ,-82.65664692,38.53394426,Lawrence County,OH,361968,IRONTON HEALTH CARE CAMPUS,Ironton,45638,Yes,No,No
+98.24,A,"265 Highway 15 S, Jackson, Kentucky, 41339", , ,-83.37632025,37.55837925,Breathitt County,KY,181853,JHI BREATHITT COUNTY FAMILY HEALTH CENTER,Jackson,41339,Yes,No,Yes
+97.5,A,"905 Main St, West Liberty, Kentucky, 41472", , ,-83.27316411,37.90504623,Morgan County,KY,181022,JUNIPER HEALTH MORGAN COUNTY,West Liberty,41472,Yes,No,Yes
+98.14,A,"120 N 4th St, Barlow, Kentucky, 42024", , ,-89.04699932,37.05215917,Ballard County,KY,181934,KENTUCKY 112,Barlow,42024,Yes,No,Yes
+97.4,M,"211 N 8th St, Mayfield, Kentucky, 42066", , ,-88.63709741,36.74305525,GRAVES COUNTY,KY,181014,KENTUCKYCARE 63,Mayfield,42066,Yes,No,Yes
+90.16,A,"464 Ky Highway 699, Cornettsville, Kentucky, 41731", , ,-83.08813549,37.11949218,Perry County,KY,181834,LEATHERWOOD BLACKEY MEDICAL CLINIC,Cornettsville,41731,Yes,No,Yes
+97.37,A,"604 N Main St, Tompkinsville, Kentucky, 42167", , ,-85.68854998,36.70523049,Monroe County,KY,181905,MONROE FAMILY MEDICAL CENTER,Tompkinsville,42167,Yes,No,Yes
+97.5,A,"104 S Front Ave, Prestonsburg, Kentucky, 41653", , ,-82.77499031,37.66671175,Floyd County,KY,181900,MOUNTAIN COMPREHENSIVE CARE CENTER,Prestonsburg,41653,Yes,No,Yes
+97.89,A,"244 Southern Ave, Cincinnati, Ohio, 45219",Mount Auburn,Cincinnati Metro Area,-84.50652011,39.12014942,Hamilton County,OH,361804,MT AUBURN HEALTH CENTER INC,Cincinnati,45219,Yes,No,No
+97.82,A,"1005 Walnut St, Cincinnati, Ohio, 45202",Central Business District,Cincinnati Metro Area,-84.51278356,39.10687724,Hamilton County,OH,361021,NEIGHBORHOOD HEALTH CARE INC,Cincinnati,45202,Yes,No,No
+98,A,"4623 Wesley Ave, Cincinnati, Ohio, 45212", ,Cincinnati Metro Area,-84.45057914,39.16105086,Hamilton County,OH,361009,NEIGHBORHOOD HEALTH CARE INC,Cincinnati,45212,No,No,No
+97.89,A,"3512 Eastern Ave, Cincinnati, Ohio, 45226",Columbia-Tusculum,Cincinnati Metro Area,-84.4392885,39.11610796,Hamilton County,OH,361847,"NEIGHBORHOOD HEALTH CARE, INC",Cincinnati,45226,Yes,No,No
+91.75,A,"1050 Old US Highway 52, New Richmond, Ohio, 45157", ,Cincinnati Metro Area,-84.28550144,38.96539311,Clermont County,OH,361810,NEW RICHMOND FAMILY PRACTICE,New Richmond,45157,Yes,No,No
+98.33,A,"1415 Jefferson Ave, Toledo, Ohio, 43604",Center City, ,-83.54535502,41.65454041,Lucas County,OH,361105,NEXUS HEALTHCARE,Toledo,43604,Yes,No,No
+98.4,A,"1 Aurora L Gonzalez Dr, Toledo, Ohio, 43609",Southside, ,-83.56315874,41.63168846,Lucas County,OH,361891,NHA PEDIATRICS,Toledo,43609,No,No,No
+98.13,A,"1817 Louis Coleman Jr Dr, Louisville, Kentucky, 40211",Park Duvalle, ,-85.81214969,38.2277152,Jefferson County,KY,181801,"PARK DUVALLE COMMUNITY HEALTH CENTER, INC",Louisville,40211,Yes,No,No
+98.18,A,"212 N Main St, London, Ohio, 43140", , ,-83.45522871,39.89215167,Madison County,OH,361079,ROCKING HORSE CHILDREN'S HEALTH CENTER,London,43140,Yes,No,Yes
+97.59,A,"425 Chestnut St, Chillicothe, Ohio, 45601", , ,-82.99566763,39.33645121,Ross County,OH,361826,ROSS COUNTY AMBULATORY CLINIC,Chillicothe,45601,Yes,No,Yes
+97.63,A,"210 Saffell St, Lawrenceburg, Kentucky, 40342", , ,-84.89835968,38.03187685,Anderson County,KY,181988,SAFFELL STREET ELEMENTARY HEALTHY KIDS CLINIC,Lawrenceburg,40342,Yes,No,Yes
+97.55,A,"462 Chardon St, Painesville, Ohio, 44077", , ,-81.25513579,41.7295259,Lake County,OH,361124,SIGNATURE HEALTH INC,Painesville,44077,Yes,No,No
+98.08,A,"595 Van Buren Dr, Columbus, Ohio, 43223",South Franklinton, ,-83.02075313,39.9469654,Franklin County,OH,361075,SOUTHEAST INC,Columbus,43223,Yes,No,No
+97.4,A,"44 Water St, Owingsville, Kentucky, 40360", , ,-83.75855347,38.14681617,Bath County,KY,181968,"STERLING HEALTH SOLUTIONS, INC",Owingsville,40360,Yes,No,Yes
+97.66,A,"4307 Camargo Rd, Mount Sterling, Kentucky, 40353", , ,-83.88892438,37.99462441,Montgomery County,KY,181019,"STERLING HEALTH SOLUTIONS, INC",Mount Sterling,40353,Yes,No,Yes
+98.21,A,"777 W State St, Columbus, Ohio, 43222",Franklinton, ,-83.02089621,39.95770065,Franklin County,OH,361982,THE NURSING CENTER FOR FAMILY HEALTH,Columbus,43222,Yes,No,No
+98.05,A,"117 Main St, Toledo, Ohio, 43605",East Toledo, ,-83.52297922,41.64806543,Lucas County,OH,361837,TOLEDO FAMILY HEALTH CENTER,Toledo,43605,Yes,No,No
+97.93,A,"3036 Woodburn Ave, Cincinnati, Ohio, 45206",Evanston,Cincinnati Metro Area,-84.47632925,39.13312442,Hamilton County,OH,361876,WALNUT HILLS EVANSTON HEALTH CENTER,Cincinnati,45206,Yes,No,No
+97.93,A,"3036 Woodburn Ave, Cincinnati, Ohio, 45206",Evanston,Cincinnati Metro Area,-84.47632925,39.13312442,Hamilton County,OH,361822,WALNUT HILLS EVANSTON MEDICAL CENTER I,Cincinnati,45206,Yes,No,No
+97.82,A,"1005 Walnut St, Cincinnati, Ohio, 45202",Central Business District,Cincinnati Metro Area,-84.51278356,39.10687724,Hamilton County,OH,361108,WALNUT STREET HEALTH CENTER,Cincinnati,45202,Yes,No,No
+97.69,A,"95 Champion Dr, Monticello, Kentucky, 42633", , ,-84.86327412,36.82627212,Wayne County,KY,181946,WAYNE COUNTY MIDDLE HEALTHY KIDS CLINIC,Monticello,42633,Yes,No,Yes
+97.74,A,"1413 Linn St, Cincinnati, Ohio, 45214",West End,Cincinnati Metro Area,-84.52767704,39.11026301,Hamilton County,OH,361806,WEST END HEALTH CENTER INC,Cincinnati,45214,Yes,No,No
+88.18,M,"150 Chestnut Ridge Rd, West Union, Ohio, 45693", , ,-83.51108647,38.78251485,ADAMS COUNTY,OH,361819,WEST UNION FAMILY HEALTH CENTER,West Union,45693,Yes,No,Yes
+97.93,A,"5275 Winneste Ave, Cincinnati, Ohio, 45232",Winton Hills,Cincinnati Metro Area,-84.5146479,39.18550799,Hamilton County,OH,361845,WINTON HILLS MEDICAL & HLTH CTR INC,Cincinnati,45232,Yes,No,No
+97.63,A,"1840 E Gypsy Lane Rd, Bowling Green, Ohio, 43402", , ,-83.61615919,41.35465387,Wood County,OH,361052,WOOD COUNTY COMMUNITY HEALTH & WELLNESS CENTER,Bowling Green,43402,Yes,No,Yes

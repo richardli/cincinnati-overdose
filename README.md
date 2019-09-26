@@ -1,8 +1,10 @@
 # Suspected Heroin-related Overdose in Cincinnati
-## Data
+Replication codes for 
+
+_Suspected heroin-related overdose incidents in Cincinnati, Ohio: a spatiotemporal analysis_ by Zehang Richard Li, Evaline Xie, Forrest W. Crawford, Joshua L. Warren, Kathryn McConnell, J. Tyler Copple, Tyler Johnson, Gregg S. Gonsalves
 
 ## Quick Start
-For a quick replication of the main analysis, set working directory to the  `codes/` folder and run the following command in R. 
+To replicate the main analysis, set working directory to the  `codes/` folder and run the following command in R. 
 
 ```
 source('baseModel.R')
